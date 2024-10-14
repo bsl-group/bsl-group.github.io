@@ -35,3 +35,36 @@ In non-linear asymptotic coupling theory (NACT, Li and Romanowicz, 1995), we als
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Non-linear Asymptotic Coupling Theory</figcaption>
 </figure>
+
+## The Born Approximation
+During the past few years, we have also been developing ways of implementing the full Born Approximation, and applying it to global and regional tomography.
+
+Let us first consider the computational costs of accounting for coupling between each pair of modes, for each source-receiver path, as described above. Since the number of modes of frequency less than the corner frequency of the seismogram of interest is proportional to the square of the wavenumber (length-scale) of the mode, we see that the total number of necessary calculations is proportional to l^4.
+
+Instead, let us find inspiration in the fact that the Born Approximation is a single-scatterer approximation. From the point of view of the scatterer, a seismic wavefield propagates from the source to it, and upon interaction, continues on to the receiver. It turns out that the effect of this individual scatterer on the observed seismic waveform is described by a convolution of the source-to-scatterer forward wavefield with the received-to-scatterer backward wavefield. Since each wavefield can be fully represented by normal mode summation, we see that for a given scatterer, the number of computations increases as l^2 (Capdeville, 2005).
+
+Using this scatterer-based approach, we have developed codes to sum up the effect of each individual scatterer, allowing a far more computationally efficient implementation of the Born Approximation.
+
+{% capture fig_img %}
+![NACT]({{ "/images/theoretical_wave_propagation/born.gif" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+## The Coupled Spectral Element Method
+Finite element methods, which involve solving the weak formulation of the equation of motion within each volume element of a discretized Earth, offer us a means for calculating the displacement in an arbitrary 3D medium. However, as the frequency of interest increases and the scale of the heterogeneity decreases, one needs to consider ever smaller volume elements, resulting in greater computational costs.
+
+The spectral element method (SEM) represents both the medium and the wavefield using low-degree Gauss-Lobato-Legendre polynomials, which increases accuracy - since by increasing the order of the polynomial, one can essentially approximate the wavefield arbitrarily closely - and makes possible the use of larger volume elements. Additionally, the use of Gauss-Lobato-Legendre polynomials also simplifies the algorith for solving the wave equation within each element (e.g. Maday and Patera, 1989).
+
+Since we might not always be interested in accounting for the 3D structure of every portion of the Earth, we can think about using normal mode summation in some regions of the Earth and full 3D SEM in others. Capdeville et al. (2002) have developed a way of coupling the modal solution in one spherically symmetric region of the Earth to the numerical wavefield in another, via a Dirichlet-to-Neumann operator which transforms displacement boundary conditions to ones specifying tractions. This coupled SEM (cSEM) makes possible faster computations.
+
+
+{% capture fig_img %}
+![NACT]({{ "/images/theoretical_wave_propagation/CSEM.gif" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
