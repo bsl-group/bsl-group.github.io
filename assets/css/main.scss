@@ -8,7 +8,7 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-  font-size: 20px; // change to whatever
+  font-size: 14px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 22px; // change to whatever
@@ -29,3 +29,5 @@ html {
 	  margin-bottom: 2.0em;
   }
 }
+
+$link-color: pink;
