@@ -1,0 +1,35 @@
+// _sass/_grid.scss
+
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .post-grid__item {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .post-grid__item:hover {
+    transform: scale(1.02);
+  }
+  
+  .post-grid__item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .post-grid__item h3 {
+    margin: 10px;
+    font-size: 1.2em;
+  }
+  
+  .post-grid__item p {
+    margin: 10px;
+    font-size: 1em;
+  }
+  

@@ -1,0 +1,15 @@
+{% assign authors = site.data.authors.authors %}
+<h2>
+    Authors List
+</h2>
+<ol>
+{% for author in authors %}
+{% if author.name %}
+<li><h3 style="color: rgb(175, 73, 73);">{{ author.name }}</h3>
+    {% if author.bio %}
+        {{ author.bio }}
+    {% endif %}
+</li>
+{% endif %}
+{% endfor %}
+</ol>

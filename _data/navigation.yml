@@ -1,0 +1,9 @@
+# main links
+main:
+  - title: "Posts"
+    url: /recent-posts/
+  - title: "About"
+    url: /about/
+
+all_posts_list:
+  

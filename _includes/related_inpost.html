@@ -1,0 +1,23 @@
+{% assign n_posts = 0 %}
+{% for post in site.posts %}
+{% if post.id == page.id %}{% continue %}{% endif %}
+{% for this_tag in page.tags %}
+{% if post.tags contains this_tag %}
+{% if n_posts == 0 %}
+<div class="align-center" style="clear:left; float: none; width: 100%; margin-bottom: 1em;">
+  {% if site.data.ui-text[site.locale].related_label %}
+  <h2>Related posts</h2>
+  {% endif %}
+  <div class="grid__wrapper">
+    {% endif %}
+    {% include archive-single-inpost.html type="list" %}
+    {% assign n_posts = n_posts | plus: 1 %}
+    {% break %}
+    {% endif %}
+    {% endfor %}
+    {% if n_posts > 4 %}{% break %}{% endif %}
+    {% endfor %}
+    {% if n_posts > 0 %}
+  </div>
+</div>
+{% endif %}

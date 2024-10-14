@@ -1,0 +1,23 @@
+@import "minimal-mistakes/masthead";
+
+.masthead {
+  background-color: white;
+  -webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+  z-index: 20;
+  a {
+    text-decoration: none;
+  }
+}
+
+.container-cf {
+  margin: 0;
+}
+
+.container-cf progress {
+  width: 100%;
+}
+
+input {
+  transition: all 0.5s;
+}

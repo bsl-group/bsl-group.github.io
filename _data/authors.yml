@@ -1,0 +1,14 @@
+# /_data/authors.yml
+
+utpalkumar:
+  name: "Utpal Kumar"
+  bio: "Data Science, Computational Geophysics, Web Computing"
+  avatar: "/images/utpalphoto.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:utpalkumar@berkeley.edu"
+
+
+authors:  
+  - name: "noauthor"

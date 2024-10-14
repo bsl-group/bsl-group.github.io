@@ -1,0 +1,19 @@
+<!-- _includes/pageviews.html -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const pagePath = location.pathname;
+      const apiUrl = `https://simpleanalytics.com/www.lokjivan.in.json?fields=pageviews&version=5&pages=${pagePath}`;
+  
+      fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+          const pageData = data.pages.find(page => page.path === pagePath);
+          const pageviews = pageData ? pageData.pageviews : 0;
+          const pageviewsElement = document.getElementById('pageviews-count');
+          pageviewsElement.textContent = `Pageviews: ${pageviews}`;
+        })
+        .catch(error => console.error('Error fetching pageview data:', error));
+    });
+  </script>
+  <div id="pageviews-count">Loading pageviews...</div>
+  
