@@ -8,6 +8,9 @@ classes:
 sidebar:
   nav: "all_posts_list"
 category: home
+excerpt: ""
+header:
+  teaser: "/images/kalidas.webp"
 ---
 ## A Brief Introduction to Normal Mode Seismology
 
@@ -23,10 +26,12 @@ Within the context of the aforedescribed Born Approximation, we can calculate th
 
 In non-linear asymptotic coupling theory (NACT, Li and Romanowicz, 1995), we also account for coupling between modes that do not share the same radial order. In terms of travelling waves, this practice is equivalent to considering not only average structure, but also variations in material properties along the great circle path joining a source and receiver. Equivalently, we can say that NACT allows us to "follow" the seismic waves as they dive into the Earth and emerge back at the surface (see the figure to the right). Because of this advantage, NACT makes possible waveform modeling of surface wave overtones as well as body waves.
 
+
 {% capture fig_img %}
-![NACT](/images/theoretical_wave_propagation/Nact.gif)
+![NACT]({{ "/images/theoretical_wave_propagation/Nact.gif" | relative_url }})
 {% endcapture %}
 
-{% capture fig_caption %}
-Non-linear Asymptotic Coupling Theory
-{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Non-linear Asymptotic Coupling Theory</figcaption>
+</figure>

@@ -49,7 +49,7 @@ layout: default
             <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
             {% else %}
             <p class="page__meta"><i class="far fa-user" aria-hidden="true"></i>
-            Dr. Anil Kumar Roy&nbsp;&nbsp;&nbsp;&nbsp;
+            Barbara Romanowicz&nbsp;&nbsp;&nbsp;&nbsp;
             <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
             {% endif %}
             {% if page.readen %}
@@ -95,7 +95,6 @@ layout: default
         {% endif %}
         {{ content }}
 
-        {% include disclaimer.html %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{
             site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         
