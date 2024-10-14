@@ -1,11 +1,16 @@
 ---
 layout: about-us-layout
 permalink: "/about/"
-sidebar:
-  nav: "all_posts_list"
+author_profile: false
 classes:
   - wide
+title: "Meet Our Team"
+description: "Get to know the dedicated team behind the blog."
 ---
 
-{% include authors-info.html %}
-
+<section class="team-section">
+  <div class="team-container">
+    <h1 class="team-title">Our Team</h1>
+    {% include authors-info.html %}
+  </div>
+</section>
