@@ -1,6 +1,6 @@
 ---
 title: "Theoretical wave propagation"
-date: 2024-10-14
+date: 2015-01-22
 tags:
   ["normal-modes", "NACT"]
 classes:
@@ -8,10 +8,11 @@ classes:
 sidebar:
   nav: "all_posts_list"
 category: home
-excerpt: ""
+excerpt: "Explore seismic wave propagation using normal modes, NACT, and advanced theoretical models for global tomography."
 header:
-  teaser: "/images/kalidas.webp"
+  teaser: "/images/theoretical_wave_propagation/Nact.gif"
 ---
+
 ## A Brief Introduction to Normal Mode Seismology
 
 All seismic motions occurring within a spherically symmetric body (which the Earth nearly is) can fully be described by a superposition of the natural modes of oscillation of that body - namely, the body's normal modes. Features of any physical object that violate spherical symmetry, such as rotation, ellipticity, and lateral heterogeneity in material properties, introduce "splitting" of the modes. In other words, a given normal mode in a non-spherically symmetric medium oscillates at a number of different nearby frequencies; this number is proportional to the inherent spatial length-scale of the mode, and the magnitude of the frequency differences is a function of the level of heterogeneity. Furthermore, modes oscillating at similar frequencies can exchange energy, which process is called "coupling".
