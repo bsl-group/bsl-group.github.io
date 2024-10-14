@@ -1,2 +1,7 @@
 /* assets/css/custom.css */
 
+/* Reduce the size of post titles */
+.page-title, .entry-title {
+  font-size: 1.8em; /* Adjust the size as needed */
+  line-height: 1.2;
+}
