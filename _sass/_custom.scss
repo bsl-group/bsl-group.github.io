@@ -1,7 +1,38 @@
 /* assets/css/custom.css */
 
-/* Reduce the size of post titles */
-.page-title, .entry-title {
-  font-size: 1.8em; /* Adjust the size as needed */
-  line-height: 1.2;
+
+.post-title, .entry-title, .page-title {
+  font-size: 2.5rem; 
+}
+
+/* Override heading sizes */
+$h-size-1: 2.5rem; 
+$h-size-2: 2rem;
+$h-size-3: 1.75rem;
+$h-size-4: 1.5rem;
+$h-size-5: 1.25rem;
+$h-size-6: 1rem;
+
+h1 {
+  font-size: $h-size-1; 
+}
+
+h2 {
+  font-size: $h-size-2;
+}
+
+h3 {
+  font-size: $h-size-3;
+}
+
+h4 {
+  font-size: $h-size-4;
+}
+
+h5 {
+  font-size: $h-size-5;
+}
+
+h6 {
+  font-size: $h-size-6;
 }
