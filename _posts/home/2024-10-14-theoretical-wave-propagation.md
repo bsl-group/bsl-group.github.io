@@ -28,7 +28,7 @@ Within the context of the aforedescribed Born Approximation, we can calculate th
 In non-linear asymptotic coupling theory (NACT, Li and Romanowicz, 1995), we also account for coupling between modes that do not share the same radial order. In terms of travelling waves, this practice is equivalent to considering not only average structure, but also variations in material properties along the great circle path joining a source and receiver. Equivalently, we can say that NACT allows us to "follow" the seismic waves as they dive into the Earth and emerge back at the surface (see the figure to the right). Because of this advantage, NACT makes possible waveform modeling of surface wave overtones as well as body waves.
 
 
-<figure> <img width="150px" src="/images/theoretical_wave_propagation/Nact.gif"> <figcaption><strong>Non-linear Asymptotic Coupling Theory</strong></figcaption> </figure>
+<figure> <img style="width: 200px;" src="/images/theoretical_wave_propagation/Nact.gif"> <figcaption><strong>Non-linear Asymptotic Coupling Theory</strong></figcaption> </figure>
 
 ## The Born Approximation
 During the past few years, we have also been developing ways of implementing the full Born Approximation, and applying it to global and regional tomography.
@@ -39,7 +39,7 @@ Instead, let us find inspiration in the fact that the Born Approximation is a si
 
 Using this scatterer-based approach, we have developed codes to sum up the effect of each individual scatterer, allowing a far more computationally efficient implementation of the Born Approximation.
 
-<figure> <img width="150px" src="/images/theoretical_wave_propagation/born.gif"> </figure>
+<figure> <img style="width: 200px;" src="/images/theoretical_wave_propagation/born.gif"> </figure>
 
 
 ## The Coupled Spectral Element Method
@@ -49,4 +49,4 @@ The spectral element method (SEM) represents both the medium and the wavefield u
 
 Since we might not always be interested in accounting for the 3D structure of every portion of the Earth, we can think about using normal mode summation in some regions of the Earth and full 3D SEM in others. Capdeville et al. (2002) have developed a way of coupling the modal solution in one spherically symmetric region of the Earth to the numerical wavefield in another, via a Dirichlet-to-Neumann operator which transforms displacement boundary conditions to ones specifying tractions. This coupled SEM (cSEM) makes possible faster computations.
 
-<figure> <img width="150px" src="/images/theoretical_wave_propagation/CSEM.gif"> </figure>
+<figure> <img style="width: 200px;" src="/images/theoretical_wave_propagation/CSEM.gif"> </figure>
