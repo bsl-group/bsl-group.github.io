@@ -2,8 +2,8 @@
 main:
   - title: "Posts"
     url: /recent-posts/
-  - title: "About"
-    url: /about/
+  - title: "Members"
+    url: /members/
 
 all_posts_list:
   
