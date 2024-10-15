@@ -8,6 +8,7 @@ utpalkumar:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:utpalkumar@berkeley.edu"
+
 jonathanwolf:
   name: "Jonathan Wolf"
   bio: "UC Berkeley, Miller Postdoctoral Fellow"
@@ -29,3 +30,4 @@ authors:
   - name: "Prajna Paramita Das"
   - name: "Bo Rong"
   - name: "Haoyu Wang"
+  - name: "Nicolas Valente Valencia"
