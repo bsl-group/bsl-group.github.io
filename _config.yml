@@ -108,10 +108,10 @@ analytics:
 leadauthor: "Barbara Romanowicz"
 author:
   name: "Prof. Barbara Romanowicz"
-  avatar: "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: ""
+  avatar: "/assets/images/barbara_romanowicz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "Deep earth structure and dynamics using seismological tools. Earthquake processes and scaling laws. Real time estimation of earthquake parameters. Development of modern broadband seismic and geophysical observatories on land and in the oceans. Planetary seismology."
   location: "Berkeley, California"
-  email:
+  email: "barbarar@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
