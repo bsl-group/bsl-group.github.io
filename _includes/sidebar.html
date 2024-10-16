@@ -31,6 +31,10 @@
         </blockquote>
       {% endif %}
 
+      {% if s.smalltext %}
+        <p style="font-size: small;"></h4>>{{ s.text }}</p>
+      {% endif %}
+
       {% if s.nav %}
         {% include nav_list nav=s.nav %}
       {% endif %}
