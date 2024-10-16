@@ -45,15 +45,20 @@
     {% endif %}
     
     {% if page.sidebar.nav %}
-    {% include nav_list nav=page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+    
+    <!-- Github page link -->
+    {% if page.github %}
+    <!-- Also include github icon -->
+    <a href="{{ page.github }}" class="btn btn--info" style="font-size: large; margin: 0 auto; text-align: center;">
+      <i class="fab fa-github"></i> GitHub
+    </a>
     {% endif %}
 
-    <!-- Github page link -->
-     {% if page.github %}
-        <!-- Also include github icon -->
-        <a href="{{ page.github }}" class="btn btn--info" style="font-size: large; margin: 0 auto; text-align: center;">
-          <i class="fab fa-github"></i> GitHub
-        </a>
+    <!-- Nav link -->
+    {% if page.nav %}
+      {% include nav_list nav=page.nav %}
     {% endif %}
   {% endif %}
   

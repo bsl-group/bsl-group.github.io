@@ -7,5 +7,9 @@ classes:
   - wide
 author_profile: false
 sidebar:
-  nav: "all_posts_list"
+  - image: "assets/images/barbara_romanowicz.jpg"
+    text: "Prof. Barbara Romanowicz"
+    subtext: "Professor of the Graduate School, Department of Earth and Planetary Science, UC Berkeley"
+nav: "all_posts_list"
+github: "https://github.com/bsl-group"
 ---
