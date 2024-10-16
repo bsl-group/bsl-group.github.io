@@ -11,7 +11,6 @@ category: home
 excerpt: "Superplumes from the Core-Mantle Boundary to the Lithosphere: Implications for Heat Flux"
 header:
   teaser: "/images/superplumes-from-the-core-mantle-boundary-to-the-lithosphere/QVplume.gif"
-author: Barbara Romanowicz
 ---
 
 ## Abstract 
