@@ -8,6 +8,8 @@ classes:
 sidebar:
   nav: "all_posts_list"
 category: home
+toc: true
+toc_sticky: true
 excerpt: "Explore seismic wave propagation using normal modes, NACT, and advanced theoretical models for global tomography."
 header:
   teaser: "/images/theoretical_wave_propagation/Nact.gif"

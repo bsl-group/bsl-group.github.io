@@ -25,4 +25,4 @@ heat and horizontal flow to the low-viscosity asthenospheric channel, lubricatin
 fluxes alone.
 
 ## Download
-Download the paper [here](https://128.32.149.148/wiki_br/images/4/47/Q02_science.pdf)
+Download the paper <a href="https://128.32.149.148/wiki_br/images/4/47/Q02_science.pdf" class="btn btn--success">here</a>
