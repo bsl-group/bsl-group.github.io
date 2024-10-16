@@ -44,7 +44,10 @@
 
     <!-- Github page link -->
      {% if page.github %}
-        <a href="{{ page.github }}" class="btn btn--success" style="font-size: large; margin: 0 auto; text-align: center;">Group GitHub</a>
+        <!-- Also include github icon -->
+        <a href="{{ page.github }}" class="btn btn--success" style="font-size: large; margin: 0 auto; text-align: center;">
+          <i class="fab fa-github"></i> GitHub
+        </a>
     {% endif %}
   {% endif %}
   
