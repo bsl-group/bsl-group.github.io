@@ -2,10 +2,6 @@
 permalink: "/members/utpalkumar/"
 classes:
   - wide
-sidebar:
-  - image: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
-    text: "Utpal Kumar"
-    subtext: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
 github: "https://github.com/earthinversion"
 # author_profile: false
 author: Utpal Kumar
