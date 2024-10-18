@@ -2,7 +2,12 @@
 
 git clone https://github.com/bsl-group/bsl-group.github.io.git
 
+## Suggested reading for using Markdown
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+
+
+## Important files
 _config.yaml: site configuration (MUST IGNORE)
 
 _posts: all posts
