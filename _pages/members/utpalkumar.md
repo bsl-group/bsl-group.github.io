@@ -7,7 +7,8 @@ sidebar:
     text: "Utpal Kumar"
     subtext: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
 github: "https://github.com/earthinversion"
-author_profile: false
+# author_profile: false
+author: Utpal Kumar
 ---
 
 <strong>Geophysicist | Geodesist | Seismologist | Open-source Developer</strong>
