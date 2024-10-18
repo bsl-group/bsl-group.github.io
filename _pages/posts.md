@@ -1,7 +1,6 @@
 ---
 layout: categories
-title: "All Posts"
-permalink: "/recent-posts/"
+permalink: "/posts/"
 entries_layout: grid
 classes:
   - wide
