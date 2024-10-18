@@ -2,7 +2,7 @@
 
 Utpal Kumar:
   name: "Utpal Kumar"
-  bio: "Data Science, Computational Geophysics, Web Computing"
+  bio: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
   avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
   links:
     - label: "Email"
@@ -19,6 +19,7 @@ jonathanwolf:
       url: "mailto:jonathan.wolf@berkeley.edu"
 
 authors:  
+  - name: "Barbara Romanowicz"
   - name: "Utpal Kumar"
     bio: "Data Science, Computational Geophysics, Web Computing"
     avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
@@ -26,7 +27,6 @@ authors:
       - label: "Email"
         icon: "fas fa-fw fa-envelope-square"
         url: "mailto:utpalkumar@berkeley.edu"
-  - name: "Barbara Romanowicz"
   - name: "Chao Lyu"
   - name: "Jonathan Wolf"
   - name: "Dorian Soergel"
