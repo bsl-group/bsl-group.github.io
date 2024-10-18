@@ -32,7 +32,6 @@
     </h2>
     {% if post.read_time %}
       <p class="page__meta">
-        <!-- author name as post.author -->
         <i class="fas fa-fw fa-user" aria-hidden="true"></i> {% if post.author %}{{ post.author.name }}{% else %}{{ site.author.name }}{% endif %} &nbsp;&nbsp;&nbsp;&nbsp;
         <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %} &nbsp;&nbsp;&nbsp;&nbsp;
         <i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {% include category-homepage.html %} &nbsp;&nbsp;&nbsp;&nbsp;
