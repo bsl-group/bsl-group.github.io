@@ -9,9 +9,9 @@ author: utpalkumar
 
 <strong>Geophysicist | Geodesist | Seismologist | Open-source Developer</strong>
 
-I am a geophysicist with a background in computational geophysics, currently working as a postdoctoral researcher at UC Berkeley. 
-My research focuses on seismic data analysis, structural health monitoring, and understanding deep Earth structures. 
+I am a geophysicist with a background in computational geophysics, currently working as a postdoctoral researcher at UC Berkeley. My research focuses on seismic data analysis, structural health monitoring, and understanding deep Earth structures. 
 I am working on codes to develop a 3D elastic model of deep structure beneath the Yellowstone hotspot using an approach called "box tomography"
+
 
 In addition to my research, I have experience in cloud computing, high-performance computing, and single-board computers, 
 which I have applied in various projects. This includes working with platforms like AWS, Docker, and Kubernetes, 
