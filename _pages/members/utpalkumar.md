@@ -22,9 +22,8 @@ as well as supercomputing environments such as STAMPEDE2, ANVIL, Savio and PERLM
 My work involves developing innovative solutions for structural health monitoring and advancing real-time seismic response analysis. 
 I am committed to applying these skills to further research in computational seismology and structural health monitoring.
 
-## Abstract of my research (AGU 2024)
 
-#### Enhanced Mid-Mantle Resolution of the Yellowstone Mantle Plume Using Full Waveform Inversion and Box Tomography
+#### Enhanced Mid-Mantle Resolution of the Yellowstone Mantle Plume Using Full Waveform Inversion and Box Tomography (AGU 2024)
 
 The Yellowstone mantle plume is characterized by a narrow, low shear-velocity feature in the lower mantle, 
 showing a horizontal deflection at approximately 1000 km depth (Nelson and Grand, 2018), akin to other plumes and subducted slabs, 
