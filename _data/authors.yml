@@ -22,6 +22,8 @@ authors:
   - name: "Barbara Romanowicz"
   - name: "Chao Lyu"
   - name: "Utpal Kumar"
+    bio: "Data Science, Computational Geophysics, Web Computing"
+    avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
   - name: "Jonathan Wolf"
   - name: "Dorian Soergel"
   - name: "Mrinal Dursun"
