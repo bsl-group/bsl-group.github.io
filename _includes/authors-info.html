@@ -1,8 +1,42 @@
 {% assign authors = site.data.authors.authors %}
 <ol>
 {% for author in authors %}
-{% if author.name %}
-<li><span style="color: rgb(175, 73, 73);">{{ author.name }}</span></li>
-{% endif %}
+  {% if author.name %}
+    <li>
+      {% if author.uri %}
+        <a href="{{ author.uri }}" itemprop="url" style="color: rgb(175, 73, 73);">
+          {{ author.name }}
+        </a>
+      {% else %}
+        <span style="color: rgb(175, 73, 73);">{{ author.name }}</span>
+      {% endif %}
+
+      <ul>
+        {% if author.bio %}
+          <li><strong>Bio:</strong> {{ author.bio }}</li>
+        {% endif %}
+        
+        {% if author.location %}
+          <li><strong>Location:</strong> {{ author.location }}</li>
+        {% endif %}
+
+        {% if author.email %}
+          <li><strong>Email:</strong> <a href="mailto:{{ author.email }}">{{ author.email }}</a></li>
+        {% endif %}
+
+        {% if author.links %}
+          <li><strong>Links:</strong>
+            <ul>
+              {% for link in author.links %}
+                {% if link.label and link.url %}
+                  <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+        {% endif %}
+      </ul>
+    </li>
+  {% endif %}
 {% endfor %}
 </ol>
