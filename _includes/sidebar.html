@@ -39,8 +39,9 @@
         {% include nav_list nav=s.nav %}
       {% endif %}
     {% endfor %}
-    
     {% if page.author_profile or layout.author_profile %}
+        <!-- print author name for testing -->
+        <h2>{{ author.name }}</h2>
       {% include author-profile.html %}
     {% endif %}
     
