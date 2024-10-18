@@ -9,7 +9,7 @@ Utpal Kumar:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:utpalkumar@berkeley.edu"
 
-jonathanwolf:
+Jonathan Wolf:
   name: "Jonathan Wolf"
   bio: "UC Berkeley, Miller Postdoctoral Fellow"
   avatar: "/assets/images/jonathanwolf.jpg"
@@ -28,6 +28,9 @@ authors:
     uri: "https://bsl-group.github.io/members/utpalkumar/"
 
   - name: "Chao Lyu"
+    bio: "Assistant Project Scientist, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
+    uri: "https://bsl-group.github.io/members/chaolyu/"
+    
   - name: "Jonathan Wolf"
   - name: "Dorian Soergel"
   - name: "Mrinal Dursun"
