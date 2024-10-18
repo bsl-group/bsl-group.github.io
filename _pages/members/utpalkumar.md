@@ -4,7 +4,7 @@ permalink: "/members/utpalkumar/"
 classes:
   - wide
 github: "https://github.com/earthinversion"
-author: utpalkumar
+author: Utpal Kumar
 ---
 
 <strong>Geophysicist | Geodesist | Seismologist | Open-source Developer</strong>
