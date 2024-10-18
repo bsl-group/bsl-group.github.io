@@ -20,13 +20,13 @@ jonathanwolf:
 
 authors:  
   - name: "Barbara Romanowicz"
+    bio: "Professor of the Graduate School, Department of Earth and Planetary Science, UC Berkeley"
+    uri: "https://eps.berkeley.edu/people/barbara-romanowicz"
+
   - name: "Utpal Kumar"
-    bio: "Data Science, Computational Geophysics, Web Computing"
-    avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
-    links:
-      - label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
-        url: "mailto:utpalkumar@berkeley.edu"
+    bio: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
+    uri: "earthinversion.com"
+
   - name: "Chao Lyu"
   - name: "Jonathan Wolf"
   - name: "Dorian Soergel"
