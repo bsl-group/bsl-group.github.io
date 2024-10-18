@@ -9,7 +9,7 @@ _posts: all posts
 -> categories:
 --> /_posts/research-papers
 
-
+### Add authors here: _data/authors.yml
 ```
 1023  cd _posts
  1024  ls
