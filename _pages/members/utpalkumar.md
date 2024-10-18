@@ -4,8 +4,11 @@ permalink: "/members/utpalkumar/"
 classes:
   - wide
 github: "https://github.com/earthinversion"
-author: Utpal Kumar
-author_profile: true
+author_profile: false
+sidebar:
+  - image: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
+    text: "Utpal Kumar"
+    subtext: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
 ---
 
 <strong>Geophysicist | Geodesist | Seismologist | Open-source Developer</strong>
