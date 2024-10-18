@@ -8,9 +8,9 @@
     padding: 0;
     list-style: none;
   }
-  
+
   .author-card {
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -18,13 +18,14 @@
     transition: transform 0.2s ease;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start; /* Align elements to the left */
+    text-align: left; /* Ensure text is left-aligned */
   }
-  
+
   .author-card:hover {
     transform: translateY(-10px);
   }
-  
+
   .author-card img {
     border-radius: 50%;
     width: 100px;
@@ -32,42 +33,46 @@
     object-fit: cover;
     margin-bottom: 15px;
   }
-  
+
   .author-card h3 {
     font-size: 1.25rem;
     margin: 10px 0;
-    color: rgb(175, 73, 73);
+    color: #333333; /* Darker and more neutral text color */
+    text-align: left; /* Left-align the author name */
+    width: 100%; /* Ensure it spans the full card width */
   }
-  
+
   .author-card a {
-    color: #007bff;
+    color: #1a73e8; /* More vibrant link color */
     text-decoration: none;
   }
-  
+
   .author-card a:hover {
     text-decoration: underline;
   }
-  
+
   .author-card p {
     font-size: 0.875rem;
-    color: #555;
+    color: #555555; /* Slightly darker text for bio */
     margin: 5px 0;
+    text-align: left; /* Left-align the bio text */
+    width: 100%;
   }
-  
+
   .author-links {
     display: flex;
     gap: 10px;
     margin-top: 10px;
   }
-  
+
   .author-links a {
-    color: #007bff;
+    color: #1a73e8; /* Same as link color for consistency */
     font-size: 1.5rem;
     transition: color 0.2s ease;
   }
-  
+
   .author-links a:hover {
-    color: #0056b3;
+    color: #0056b3; /* Darken on hover for better interaction feedback */
   }
 </style>
 
@@ -102,7 +107,6 @@
           {% if author.linkedin %}
             <a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
           {% endif %}
-          <!-- Add more icons/links as needed -->
         </div>
       </li>
     {% endif %}
