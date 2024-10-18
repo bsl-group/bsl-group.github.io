@@ -14,7 +14,7 @@ I am working on codes to develop a 3D elastic model of deep structure beneath th
 
 
 In addition to my research, I have experience in cloud computing, high-performance computing, and single-board computers, 
-which I have applied in various projects. This includes working with platforms like AWS, Docker, and Kubernetes, 
+which I have applied in various projects. This includes working with platforms like AWS, GCP, 
 as well as supercomputing environments such as STAMPEDE2, ANVIL, Savio and PERLMUTTER (and CORI). 
 My work involves developing innovative solutions for structural health monitoring and advancing real-time seismic response analysis. 
 I am committed to applying these skills to further research in computational seismology and structural health monitoring.
