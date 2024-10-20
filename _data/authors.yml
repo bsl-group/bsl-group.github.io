@@ -36,6 +36,14 @@ Chao Lyu:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lyuchao@berkeley.edu"
 
+Nicolas Valencia:
+  name: "Nicolas Valencia"
+  bio: "Undergraduate Researcher at UC Berkeley"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nicolasv03@berkeley.edu"
+
 authors:  
   - name: "Prof. Barbara Romanowicz"
     bio: "Professor of the Graduate School, Department of Earth and Planetary Science, UC Berkeley"
@@ -59,6 +67,6 @@ authors:
   - name: "Prajna Paramita Das"
   - name: "Bo Rong"
   - name: "Haoyu Wang"
-  - name: "Nicolas Valente Valencia"
+  - name: "Nicolas Valencia"
     bio: "Undergraduate Researcher at UC Berkeley"
     uri: "https://bsl-group.github.io/members/nicolasvalencia/"
