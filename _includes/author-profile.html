@@ -34,6 +34,7 @@
       {% endif %}
     </div>
   {% endif %}
+  </a>
 
   <div class="author__content">
     {% if author.home %}
@@ -47,7 +48,6 @@
       </div>
     {% endif %}
   </div>
-  </a>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Contact" }}</button>
