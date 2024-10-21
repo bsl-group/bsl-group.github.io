@@ -52,13 +52,6 @@ layout: default
             Barbara Romanowicz&nbsp;&nbsp;&nbsp;&nbsp;
             <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
             {% endif %}
-            {% if page.readen %}
-            <a href="{{ page.readen }}" class="button" style="color: blue;">Read in English</a>&nbsp;&nbsp;
-            {% endif %}
-
-            {% if page.readhi %}
-            <a href="{{ page.readhi }}" class="button" style="color: blue;">Read in Hindi</a>&nbsp;&nbsp;
-            {% endif %}
 
             {% if site.category_archive.type and page.categories[0] %}
             <i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {% include category-top.html %} &nbsp;&nbsp;
