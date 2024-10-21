@@ -12,6 +12,7 @@ classes:
 sidebar:
   nav: "all_posts_list"
 category: techniques
+author: Utpal Kumar
 ---
 
 ## Why do we use Git?
