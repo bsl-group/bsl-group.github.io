@@ -111,6 +111,7 @@ author:
   avatar: "/assets/images/barbara_romanowicz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Deep earth structure and dynamics using seismological tools. Earthquake processes and scaling laws. Real time estimation of earthquake parameters. Development of modern broadband seismic and geophysical observatories on land and in the oceans. Planetary seismology."
   location: "Berkeley, California"
+  uri: "https://bsl-group.github.io/members/barbarar/"
   # email: "barbarar@berkeley.edu"
   links:
     - label: "Email"
