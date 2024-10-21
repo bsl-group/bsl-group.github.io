@@ -3,6 +3,15 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
+  {% if author.uri %}
+    {% if author.uri contains "://" %}
+      {% assign author_link = author.uri %}
+    {% else %}
+      {% assign author_link = author.uri | relative_url %}
+    {% endif %}
+  {% endif %}
+
+  <a href="{{ author_link }}" itemprop="url">
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.avatar contains "://" %}
@@ -38,6 +47,7 @@
       </div>
     {% endif %}
   </div>
+  </a>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Contact" }}</button>
