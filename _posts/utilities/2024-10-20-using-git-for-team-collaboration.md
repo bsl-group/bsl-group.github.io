@@ -6,7 +6,7 @@ excerpt: "Tutorial on how to use Git and GitHub for team collaboration on a proj
 mathjax: "true"
 toc: true
 header:
-  teaser: "https://i0.wp.com/earthinversion.com/wp-content/uploads/2024/10/wx2l8l-fgea.jpg?w=1600&ssl=1"
+  teaser: "/images/using-git-for-team-collaboration/wx2l8l-fgea.webp"
 classes:
   - wide
 sidebar:
