@@ -19,7 +19,6 @@ Git can record changes to our file over time. We can recall any specific version
 ## What is GitHub?
 Okay! So far we understood git to some extent. But what is “GitHub”? Well, GitHub is an online service that hosts our projects, helpful in sharing our code to other collaborators of the project. The collaborators can simply download the codes and work on them. They can re-upload their edits and merge with the main codebase.
 
-{% include related_inpost.html %}
 
 ## Git
 ### Installing Git
@@ -237,4 +236,4 @@ Now, we want to push this branch to the remote repository on the GitHub. We do n
 We can fork the repo on GitHub in order to contribute to some open source project. The forking will copy the open source project from other&rsquo;s account to our own account. After that, we can clone that repository to our local computer. Later if we wanna contribute to that project, we can do the pull request. And then if the original creator of the project accepts the pull request then they can merge it to the original project.
 
 
-<h4>This is an adaptation of the post from <a href="https://earthinversion.com/techniques/using-github-for-team-collaboration">earthinversion.com</a></h4>
+<p>This is an adaptation of the post from <a href="https://earthinversion.com/techniques/using-github-for-team-collaboration">earthinversion.com</a></p>
