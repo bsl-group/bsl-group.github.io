@@ -3,8 +3,7 @@ title: "Dynamic History of Inner Core"
 date: 2022-06-15
 tags:
   []
-classes:
-  - wide
+toc: true
 sidebar:
   nav: "all_posts_list"
 category: research-papers

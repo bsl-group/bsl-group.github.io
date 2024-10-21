@@ -3,8 +3,6 @@ title: "Theoretical wave propagation"
 date: 2015-01-22
 tags:
   ["normal-modes", "NACT"]
-classes:
-  - wide
 sidebar:
   nav: "all_posts_list"
 category: home

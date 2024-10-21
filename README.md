@@ -42,8 +42,7 @@ To clone the bsl-group.github.io repository to your local machine, follow these 
     date: 2014-06-17
     tags:
     []
-    classes:
-    - wide
+    toc: true
     sidebar:
     nav: "all_posts_list"
     category: research-papers
@@ -55,7 +54,7 @@ To clone the bsl-group.github.io repository to your local machine, follow these 
     - `title`: The title of your post.
     - `date`: The date of publication in YYYY-MM-DD format.
     - `tags`: A list of tags for categorizing the post (optional).
-    - `classes`: Layout classes (e.g., wide).
+    - `toc`: Table of contents
     - `sidebar`: Specifies the sidebar navigation (e.g., nav: "all_posts_list").
     - `category`: The category the post belongs to (e.g., research-papers).
     - `excerpt`: A brief description or summary of the post.
