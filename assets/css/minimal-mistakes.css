@@ -3045,9 +3045,9 @@ a.reversefootnote {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 1.25em; }
 
-.page__content {
+/* .page__content { */
   /* paragraph indents */
-  /* blockquote citations */ }
+  /* blockquote citations } */ 
   /* .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid #f2f3f3;
