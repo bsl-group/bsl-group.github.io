@@ -7,8 +7,6 @@ mathjax: "true"
 toc: true
 header:
   teaser: "/images/using-git-for-team-collaboration/wx2l8l-fgea.webp"
-classes:
-  - wide
 sidebar:
   nav: "all_posts_list"
 category: techniques
