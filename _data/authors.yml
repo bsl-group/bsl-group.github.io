@@ -47,6 +47,7 @@ Chao Lyu:
 Nicolas Valencia:
   name: "Nicolas Valencia"
   bio: "Undergraduate Researcher at UC Berkeley"
+  avatar: "/assets/images/nicolas_valencia.jpg"
   uri: "https://bsl-group.github.io/members/nicolasvalencia/"
   links:
     - label: "Email"
