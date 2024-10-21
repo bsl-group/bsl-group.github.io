@@ -7,10 +7,11 @@ Utpal Kumar:
   avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
   github: "https://github.com/earthinversion"
   uri: "https://bsl-group.github.io/members/utpalkumar/" #Create a page: _pages/members/utpalkumar.md
+  email: "utpalkumar@berkeley.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:utpalkumar@berkeley.edu"
+    - label: "Personal Blog"
+      icon: "fas fa-blog"
+      url: "https://earthinversion.com/"
 
 Barbara Romanowicz:
   name: "Barbara Romanowicz:"
