@@ -1,11 +1,12 @@
 # /_data/authors.yml
 
+## Author profiles
 Utpal Kumar:
   name: "Utpal Kumar"
   bio: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
   avatar: "https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/utpalphoto.jpg"
   github: "https://github.com/earthinversion"
-  uri: "https://bsl-group.github.io/members/utpalkumar/"
+  uri: "https://bsl-group.github.io/members/utpalkumar/" #Create a page: _pages/members/utpalkumar.md
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -50,6 +51,8 @@ Nicolas Valencia:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nicolasv03@berkeley.edu"
 
+
+## Used for the members page
 authors:  
   - name: "Prof. Barbara Romanowicz"
     bio: "Professor of the Graduate School, Department of Earth and Planetary Science, UC Berkeley"

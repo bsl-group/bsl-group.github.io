@@ -11,43 +11,34 @@
     {% endif %}
   {% endif %}
 
-  <a href="{{ author_link }}" itemprop="url">
-  {% if author.avatar %}
-    <div class="author__avatar">
-      {% if author.avatar contains "://" %}
-        {% assign author_src = author.avatar %}
-      {% else %}
-        {% assign author_src = author.avatar | relative_url %}
-      {% endif %}
-
-      {% if author.home %}
-        {% if author.home contains "://" %}
-          {% assign author_link = author.home %}
-        {% else %}
-          {% assign author_link = author.home | relative_url %}
-        {% endif %}
-        <a href="{{ author_link }}">
+  <!-- Conditional to check and display avatar and name within a link -->
+  {% if author.avatar or author.name %}
+    <a href="{{ author_link }}" itemprop="url">
+      {% if author.avatar %}
+        <div class="author__avatar">
+          {% if author.avatar contains "://" %}
+            {% assign author_src = author.avatar %}
+          {% else %}
+            {% assign author_src = author.avatar | relative_url %}
+          {% endif %}
           <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-        </a>
-      {% else %}
-        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        </div>
       {% endif %}
+    
+      {% if author.name %}
+        <div class="author__content">
+          <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+        </div>
+      {% endif %}
+    </a>
+  {% endif %}
+
+  {% if author.bio %}
+    <div class="author__bio" itemprop="description">
+      {{ author.bio | markdownify }}
     </div>
   {% endif %}
-  </a>
-
-  <div class="author__content">
-    {% if author.home %}
-      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
-    {% else %}
-      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
-    {% endif %}
-    {% if author.bio %}
-      <div class="author__bio" itemprop="description">
-        {{ author.bio | markdownify }}
-      </div>
-    {% endif %}
-  </div>
+  
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Contact" }}</button>
