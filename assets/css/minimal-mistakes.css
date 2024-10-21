@@ -3048,10 +3048,10 @@ a.reversefootnote {
 .page__content {
   /* paragraph indents */
   /* blockquote citations */ }
-  .page__content h2 {
+  /* .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid #f2f3f3;
-    font-size: 0.8em; }
+    font-size: 0.8em; } */
   .page__content p,
   .page__content li,
   .page__content dl {

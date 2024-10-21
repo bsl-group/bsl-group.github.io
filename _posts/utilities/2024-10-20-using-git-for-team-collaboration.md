@@ -12,15 +12,14 @@ sidebar:
 category: techniques
 author: Utpal Kumar
 ---
-
 ## Why do we use Git?
 Git can record changes to our file over time. We can recall any specific version of the file at any given time. It also allows many people to easily collaborate on a project and have their own version of the project files on their local computer. It is incredibly useful to keep all the histories of the project codes so that if we want to go back the previous version in the future, we don’t need to rewrite it but we can just switch back to the past version directly.
 
 ## What is GitHub?
 Okay! So far we understood git to some extent. But what is “GitHub”? Well, GitHub is an online service that hosts our projects, helpful in sharing our code to other collaborators of the project. The collaborators can simply download the codes and work on them. They can re-upload their edits and merge with the main codebase.
 
+## How can we use Git?
 
-## Git
 ### Installing Git
 The easiest way is just to download from the link <a href="https://git-scm.com/downloads">here</a>. Select the download for your operating system and this will download in your computer. Go through the installation steps and that’s it, you have Git now! If you are Windows user, then I’d suggest you install some text editor for writing and running codes. My personal favorite is “VSCode” by Microsoft. It is free, open-source and cross-platform i.e. it provides a similar environment for Windows, Linux, and Mac Users and it has inbuilt “terminal”.
 After installing Git and supposedly VSCode then you open and terminal and type
