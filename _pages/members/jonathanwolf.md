@@ -17,7 +17,7 @@ To find better answers to these questions, Jonathan's current research addresses
 - Outermost core velocity structure, which can give insights into outer core dynamics. It has been suggested that the outermost core has lower velocities than many 1D velocity models suggest, which could be explained if the outermost core is not perfectly mixed.
 - The nature and properties of the D" discontinuity in the lower mantle. The D" discontinuity has been suggested to mark the mineral transition from bridgmanite to post-perovskite, although this is highly uncertain.
 
-Jonathan's research often involves comparisons between real and computer-generated seismic data, for which he primarily uses a code called AxiSEM3D (https://github.com/AxiSEMunity/AxiSEM3D).
+Jonathan's research often involves comparisons between real and computer-generated seismic data, for which he primarily uses a code called [AxiSEM3D](https://github.com/AxiSEMunity/AxiSEM3D).
 
 If you are interested in collaborations, please do not hesitate to reach out via email: jonathan.wolf(at).berkeley.edu.
 
@@ -36,4 +36,4 @@ J Wolf, MD Long, K Leng, T Nissen-Meyer (2022), Constraining deep mantle anisotr
 
 J Wolf, DAD Evans (2022), Reconciling supercontinent cycle models with ancient subduction zones, Earth and Planetary Science Letters; doi: 10.1016/j.epsl.2021.117293.
 
-For a full list of publications, please visit Google Scholar: https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en
+For a full list of publications, please visit [Google Scholar:](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
