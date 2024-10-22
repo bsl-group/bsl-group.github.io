@@ -35,7 +35,7 @@ In non-linear asymptotic coupling theory (NACT, Li and Romanowicz, 1995), we als
 ## The Born Approximation
 During the past few years, we have also been developing ways of implementing the full Born Approximation, and applying it to global and regional tomography.
 
-Let us first consider the computational costs of accounting for coupling between each pair of modes, for each source-receiver path, as described above. Since the number of modes of frequency less than the corner frequency of the seismogram of interest is proportional to the square of the wavenumber (length-scale) of the mode, we see that the total number of necessary calculations is proportional to l^4.
+Let us first consider the computational costs of accounting for coupling between each pair of modes, for each source-receiver path, as described above. Since the number of modes of frequency less than the corner frequency of the seismogram of interest is proportional to the square of the wavenumber (length-scale) of the mode, we see that the total number of necessary calculations is proportional to l<sup>4</sup>.
 
 Instead, let us find inspiration in the fact that the Born Approximation is a single-scatterer approximation. From the point of view of the scatterer, a seismic wavefield propagates from the source to it, and upon interaction, continues on to the receiver. It turns out that the effect of this individual scatterer on the observed seismic waveform is described by a convolution of the source-to-scatterer forward wavefield with the received-to-scatterer backward wavefield. Since each wavefield can be fully represented by normal mode summation, we see that for a given scatterer, the number of computations increases as l<sup>2</sup> (Capdeville, 2005).
 
