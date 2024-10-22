@@ -6,12 +6,14 @@ github: "https://github.com/wolfjonathan"
 author: Jonathan Wolf
 ---
 
-<strong> Global Seismologist </strong>
+<strong> Earthquake Wave Enthusiast </strong>
 
-Jonathan is generally interested in structures and processes in the deep Earth. Research questions that are driving his research are, for example:
+Jonathan is generally interested in the structures and processes of the deep Earth. He is convinced that much scientific progress in our understanding of Earth's deep interior can be made by using large publicly available datasets. He has the privilege to work with colleagues on [a massive data collection effort](http://adept.sese.asu.edu/). This dataset includes 17 million three-component seismograms and is constantly growing. Currently, he puts much of his scientific effort into implementing automated methods to analyze this massive dataset.
+
+Research questions that are driving his research are, for example:
 What drives flow at the base of the mantle? What is the relationship between large-low velocity provinces (LLVPs), hotspots, subducted paleoslabs, and surrounding regions? What causes anisotropy in the lowermost mantle? What is the heat flux across the core-mantle boundary (CMB) that is driving mantle convection? How do ultralow velocity zones (ULVZs) inform us about Earth’s dynamical evolution? What causes the D" discontinuity and how does it relate to overall mantle dynamics? How do Earth's outermost core interact with the mantle? How can seismology inform outer core convection?
 
-To find better answers to these questions, Jonathan's current research addresses:
+To find better answers to these questions, Jonathan's research addresses:
 - The dependence of seismic wavespeeds on the propagation and polarization direction of the wave, a property called seismic anisotropy. This material property is indicative of deformation and, therefore, mantle flow. Jonathan investigates seismic anisotropy in both the lowermost mantle and upper mantle.
 - Features with very low seismic velocities just above the core-mantle boundary (called ultra-low velocity zones), and mantle dynamics around them. The origin of ULVZs and their role in mantle dynamics are only poorly understood.
 - Outermost core velocity structure, which can give insights into outer core dynamics. It has been suggested that the outermost core has lower velocities than many 1D velocity models suggest, which could be explained if the outermost core is not perfectly mixed.
@@ -36,4 +38,4 @@ J Wolf, MD Long, K Leng, T Nissen-Meyer (2022), Constraining deep mantle anisotr
 
 J Wolf, DAD Evans (2022), Reconciling supercontinent cycle models with ancient subduction zones, Earth and Planetary Science Letters; doi: 10.1016/j.epsl.2021.117293.
 
-For a full list of publications, please visit [Google Scholar:](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
+For a full list of publications, please visit [Jonathan's Google Scholar](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
