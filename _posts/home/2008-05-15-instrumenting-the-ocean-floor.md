@@ -2,7 +2,7 @@
 title: "Instrumenting the Ocean Floor"
 date: 2008-05-15
 tags:
-  ["OBS", "BSL, "MBARI"]
+  ["OBS", "BSL", "MBARI"]
 sidebar:
   nav: "all_posts_list"
 category: home
