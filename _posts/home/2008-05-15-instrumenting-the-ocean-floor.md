@@ -16,7 +16,7 @@ header:
 
 This is a collaborative project between the Berkeley Seismological Laboratory (BSL) and the Monterey Bay Aquarium Research Institute (MBARI). PI's are Barbara Romanowicz at UC Berkeley and Paul McGill at MBARI. A three-component very broadband seismometer package (CMG-1T), recording system, as well as an auxiliary differential pressure gauge (DPG) and current meter, were installed on the seafloor, in Monterey Bay, 40 km off-shore, at 1000m water depth, in April of 2002.
 
-![MOBB map](/images/underwater-seismic-observatory/Mobb_map.jpg)
+![MOBB map](/images/instrumenting-the-ocean-floor/Mobb_map.jpg)
 *Figure 1: Map showing the location of the MOBB observatory in Monterey Bay.*
 
 The seismic package was installed in a PVC pipe using the MBARI ROV Ventana and is buried under the seafloor, covered with glass beads. The recording system and battery package sits 10m away in an anti-trawling device, whose design served as a prototype for the housing of the MARS cable junctions (click [here](http://www.mbari.org/mars/)). The MOBB observatory is currently autonomous: data cartridges and batteries are exchanged every 4 months using dives of the ROV Ventana from the MBARI ship Point Lobos.
@@ -45,10 +45,10 @@ The MOBB data have been used for a variety of purposes. Two sources of backgroun
 
 - Dolenc, D., B. Romanowicz, D. Stakes, P. McGill, and D. Neuhauser (2005) "Observations of infragravity waves at the Monterey Ocean Bottom broadband station (MOBB)," *Geochem, Geophys. Geosyst.*, 5, Q09002, doi:10.1029/2005GC000988.
 
-![MOBB Connections](/images/underwater-seismic-observatory/Mobb_connect-large.jpg)
+![MOBB Connections](/images/instrumenting-the-ocean-floor/Mobb_connect-large.jpg)
 *Figure 2: Connections to the MOBB observatory showing the junction and deployment setup.*
 
-![Deployment](/images/underwater-seismic-observatory/Deploy1-large.jpg)
+![Deployment](/images/instrumenting-the-ocean-floor/Deploy1-large.jpg)
 *Figure 3: Deployment of the MOBB observatory using ROV Ventana.*
 
 ---
