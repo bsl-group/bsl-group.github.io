@@ -1,5 +1,5 @@
 ---
-title: "Origin of the earth's "hum" - Excitation of Earth's continuous free oscillations by atmosphere-ocean-seafloor coupling"
+title: "Excitation of Earth's continuous free oscillations by atmosphere-ocean-seafloor coupling"
 date: 2004-01-16
 tags:
   []
@@ -9,7 +9,7 @@ sidebar:
 category: research-papers
 excerpt: "Excitation of Earth's continuous free oscillations by atmosphere-ocean-seafloor coupling"
 header:
-  teaser: "/images/Origin-of-the-earth's-'hum'/p3.jpeg"
+  teaser: "/images/origin-of-the-earths-hum/p3.jpg"
 ---
 
 ## Abstract 
