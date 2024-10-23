@@ -7,7 +7,7 @@ toc: true
 sidebar:
   nav: "all_posts_list"
 category: research-papers
-excerpt: "Excitation of Earth's continuous free oscillations by atmospher-ocean-seafloor coupling"
+excerpt: "Excitation of Earth's continuous free oscillations by atmosphere-ocean-seafloor coupling"
 header:
   teaser: "/images/Origin-of-the-earth's-'hum'/p3.jpeg"
 ---
