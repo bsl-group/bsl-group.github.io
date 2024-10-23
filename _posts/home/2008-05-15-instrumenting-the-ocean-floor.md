@@ -46,9 +46,11 @@ The MOBB data have been used for a variety of purposes. Two sources of backgroun
 - Dolenc, D., B. Romanowicz, D. Stakes, P. McGill, and D. Neuhauser (2005) "Observations of infragravity waves at the Monterey Ocean Bottom broadband station (MOBB)," *Geochem, Geophys. Geosyst.*, 5, Q09002, doi:10.1029/2005GC000988.
 
 ![MOBB Connections](/images/instrumenting-the-ocean-floor/Mobb_connect-large.jpg)
+<br>
 *Figure 2: Connections to the MOBB observatory showing the junction and deployment setup.*
 
 ![Deployment](/images/instrumenting-the-ocean-floor/Deploy1-large.jpg)
+<br>
 *Figure 3: Deployment of the MOBB observatory using ROV Ventana.*
 
 ---
