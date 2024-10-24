@@ -1,5 +1,5 @@
 ---
-title: "Upper mantle velocity structure can contaminate differential travel-time measurements and bias estimates of inner core anisotropy causing the “Alaska anomaly"
+title: "Upper mantle velocity structure can contaminate differential travel-time measurements and bias estimates of inner core anisotropy causing the 、\"Alaska anomaly\""
 date: 2021-04-21
 tags:
   []
