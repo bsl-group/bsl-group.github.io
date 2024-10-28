@@ -46,7 +46,7 @@ github: "https://github.com/bsl-group"
 
 
 <!-- Post-Doctoral Associates Section -->
-#### Post-Doctoral Associates
+#### <i> Post-Doctoral Associates </i>
 - Yder Masson is a researcher at Magic3D, Pau, France
 - Thomas Bodin is a research scientist at CNRS, Lyon, France
 - Marco Calo is a research scientist at UNAM, Mexico City, Mexico
