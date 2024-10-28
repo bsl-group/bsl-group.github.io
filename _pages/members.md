@@ -39,13 +39,16 @@ github: "https://github.com/bsl-group"
 - Michael Antolik went on to a scientist position at QTSI/AFTAC in Florida
 - Ludovic Breger (PhD 2002) is now with Barclays Global Investors
 - Hrvoje Tkalčić (PhD 2001) is a professor at the Australian National University
-- Yves LeStunff (PhD 1996) went to work at Total Exploration & Prodution (first as researcher now Managing Director of Total E&P Bulgaria and Total E&P Greece)
 - Charles Megnin (PhD 2000) now lives in France
+- Yves LeStunff (PhD 1996) went to work at Total Exploration & Prodution (first as researcher now Managing Director of Total E&P Bulgaria and Total E&P Greece)
 - Michael Pasyanos (PhD 1996) is now a senior researcher at Lawrence Livermore National Lab
 - Sebastien Rousset (MS 199x) is teaching Physics at college level in France
+- Tony Monfret is a researcher at GEOAZUR, Nice, France
 - Antoine Mocquet (PhD 1990) is a professor at the Université de Nantes, France
 - Philippe Lognonné (PhD 1989) is a professor at Université de Paris Descartes and IPG Paris, France
-
+- Martine Bussy
+- Florence Bourjot
+- Catherine Brandon
 
 <!-- Post-Doctoral Associates Section -->
 #### <i> Post-Doctoral Associates </i>
