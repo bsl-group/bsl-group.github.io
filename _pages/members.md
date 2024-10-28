@@ -18,29 +18,31 @@ github: "https://github.com/bsl-group"
 
 <!-- Graduate Students Section -->
 #### <i> Graduate Students </i>
-- Alex Robson (PhD 2020)
-- Li-Wei Chen (PhD 2021) is now a post-doc at UC Berkeley
-- Sevan Adourian is now a post-doc at Brown University
+
+- Sevan Adourian (PhD 2023) is now a post-doc at Brown University
+- Heng-Yi Su (MS 2022) is now a data scientist at UBER (CA)
+- Li-Wei Chen (PhD 2022) is now a post-doc at UC Berkeley
+- Alex Robson (PhD 2020) is a data scientist at dotData (San Mateo, CA)
 - Anais Ibourichene (PhD 2017) continued as a post-doc at Nancy, France
 - Pierre Clouzet (PhD 2017) continued as a post-doc at ENS Lyon, France
 - Matthias Meschede (PhD 2015) is director of business at QuantStack, Paris, France
 - Zhao (Allen) Zheng (PhD 2014) is now a Microseismic Geophysicist at Halliburton, TX
 - Scott French (PhD 2014) was recruited by Google Inc.
-- Michael Antolik went on to a scientist position at QTSI/AFTAC in Florida
-- Ludovic Breger is now with Barclays Global Investors
 - Sanne Cottaar (PhD 2013) is now associate Professor at Cambridge University, U.K.
-- David Dolenc became a researcher at the U of Minnesota, Duluth, Large Lakes Observatory
-- Yuancheng Gung is now a professor at National Taiwan University
-- Chaincy Kuo is now a researcher at LBNL
 - Vedran Lekic (PhD 2009) is now associate professor at the University of Maryland
-- Yves LeStunff went to work as a researcher at Total Energies
-- Charles Megnin now lives in France
-- Mark Panning is now on the science team at JPL, Pasadena, CA
-- Michael Pasyanos is now a senior researcher at Lawrence Livermore National Lab
-- Junkee Rhie is now professor at Seoul National University, Korea
-- Sebastien Rousset is back in France, teaching Physics at college level
-- Hrvoje Tkalčić is a professor at the Australian National University
-- Akiko Toh is now a researcher at JAMSTEC
+- Junkee Rhie (PhD 2006) is now professor at Seoul National University, Korea
+- Akiko Toh (PhD 2005) is now a researcher at JAMSTEC
+- David Dolenc (PhD 2005) became a researcher at the U of Minnesota, Duluth, Large Lakes Observatory
+- Mark Panning (PhD 2004) is now on the science team at JPL, Pasadena, CA
+- Yuancheng Gung (PhD 2003) is now a professor at National Taiwan University
+- Chaincy Kuo (PhD 2002) is now a researcher at LBNL
+- Michael Antolik went on to a scientist position at QTSI/AFTAC in Florida
+- Ludovic Breger (PhD 2002) is now with Barclays Global Investors
+- Hrvoje Tkalčić (PhD 2001) is a professor at the Australian National University
+- Yves LeStunff (PhD 1996) went to work at Total Exploration & Prodution (first as researcher now Managing Director of Total E&P Bulgaria and Total E&P Greece)
+- Charles Megnin (PhD 2000) now lives in France
+- Michael Pasyanos (PhD 1996) is now a senior researcher at Lawrence Livermore National Lab
+- Sebastien Rousset (MS 199x) is teaching Physics at college level in France
 - Antoine Mocquet (PhD 1990) is a professor at the Université de Nantes, France
 - Philippe Lognonné (PhD 1989) is a professor at Université de Paris Descartes and IPG Paris, France
 
