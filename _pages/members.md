@@ -52,15 +52,15 @@ github: "https://github.com/bsl-group"
 - Yder Masson is a researcher at Magic3D, Pau, France
 - Thomas Bodin is a research scientist at CNRS, Lyon, France
 - Marco Calo is a research scientist at UNAM, Mexico City, Mexico
-- Fabio Cammarano is now on the faculty at the University of Rome, Italy
-- Yann Capdeville is a CNRS permanent researcher at the University of Nantes
+- Fabio Cammarano is associate professor at the University of Rome, Roma Tre, Italy
+- Yann Capdeville is directeur de recherches at CNRS, Laboratoire de Planétologie et de Géodynamique, Nantes
 - Eric Clevede is a CNRS researcher at IPG-Paris
-- Paul Cupillard is now a researcher in Nancy, France
+- Paul Cupillard is associate professor at University of Lorraine, in Nancy, France
 - Olivier Coutant is at Universite Joseph Fourier, Grenoble
-- Joseph Durek is a program manager at the Strategic Technology Office
+- Joseph Durek is group Lead at Advanced Systems Development, STR (Systems & Technology Research), Woburn, MA
 - Xiang Dong Li is now retired
-- Federica Marone is now a staff research scientist at the Paul Scherer Institute in Switzerland
-- Huaiyu Yuan is now a researcher at Macquarie University, Australia
+- Federica Marone is now a beamline scientist at the Paul Scherer Institute in Switzerland
+- Huaiyu Yuan is now a researcher at Macquarie University, Australia and the Geological Survey of Western Australia
 
 
 <!-- Visiting Scientists Section -->
