@@ -17,7 +17,7 @@ github: "https://github.com/bsl-group"
 ## Former Participants
 
 <!-- Graduate Students Section -->
-#### Graduate Students
+#### <i> Graduate Students </i>
 - Alex Robson (PhD 2020)
 - Li-Wei Chen (PhD 2021) is now a post-doc at UC Berkeley
 - Sevan Adourian is now a post-doc at Brown University
