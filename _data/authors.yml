@@ -54,6 +54,17 @@ Nicolas Valencia:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nicolasv03@berkeley.edu"
 
+Dorian Soergel:
+  name: "Dorian Soergel"
+  bio: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
+  avatar: "/assets/images/dorian_soergel.jpg"
+  github: "https://github.com/dosoe"
+  uri: "https://bsl-group.github.io/members/doriansoergel/"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:d.soergel@berkeley.edu"
+
 
 ## Used for the members page
 authors:  
@@ -74,6 +85,9 @@ authors:
     uri: "https://bsl-group.github.io/members/jonathanwolf/"
 
   - name: "Dorian Soergel"
+    bio: "Postdoc, Berkeley Seismology Lab & Department of Earth and Planetary Science, UC Berkeley"
+    uri: "https://bsl-group.github.io/members/doriansoergel/"
+
   - name: "Mrinal Dursun"
   - name: "Yuancong Gou"
   - name: "Prajna Paramita Das"
