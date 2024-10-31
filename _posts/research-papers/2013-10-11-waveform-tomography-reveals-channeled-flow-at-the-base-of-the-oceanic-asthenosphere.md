@@ -23,12 +23,12 @@ Click <a href="https://bsl-group.github.io/research-papers/SEMum2/" class="btn b
 ## Figures
 
 <figure style="width: 640px; margin: 0 auto; text-align: left;">
-<img style="width: 100%" src="images/2013-10-11-SEMum/View_3d.web.jpg">
+<img style="width: 100%" src="/images/2013-10-11-SEMum/View_3d.web.jpg">
 <figcaption><strong>Fig. 1.</strong> (<strong>A</strong>) maps of model SAW16AN at depths of 175 km, 300 km and 400km. From left to right: V_SH, V_SV and ξ</figcaption>
 </figure>
 
 <figure style="width: 640px; margin: 0 auto; text-align: left;">
-<img style="width: 100%" src="images/2013-10-11-SEMum/Map_view.annotated.jpg">
+<img style="width: 100%" src="/images/2013-10-11-SEMum/Map_view.annotated.jpg">
 <figcaption><strong>Fig. 2.</strong> (<strong>A</strong>) Sketch illustrating our interpretation of the observed anisotropy in relation to lithospheric thickness, and its relationship to the Lehmann (L) and Gutenberg (G) discontinuities. The Hales discontinuity (H), which is also shown, is generally observed as a positive impedance embedded within the continental lithosphere in the depth range 60¨C80 km. H and G may not be related.</figcaption>
 </figure>
 
