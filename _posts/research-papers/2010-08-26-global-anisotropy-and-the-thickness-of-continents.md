@@ -9,7 +9,7 @@ sidebar:
 category: research-papers
 excerpt: "How cratons—extremely stable continental areas of the Earth’s crust—formed and remained largely unchanged for more than 2,500 million years is much debated. "
 header:
-  teaser: "/images/2010-08-26-global-anisotropy-and-the-thickness-of-continents.md/Layering-nam.jpg"
+  teaser: "/images/2010-08-26-global-anisotropy-and-the-thickness-of-continents/Layering-nam.jpg"
 ---
 
 
