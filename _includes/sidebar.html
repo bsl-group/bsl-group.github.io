@@ -44,14 +44,6 @@
       {% endif %}
     {% endfor %}
     
-    <!-- Github page link -->
-    {% if page.github %}
-    <!-- Also include github icon -->
-    <a href="{{ page.github }}" class="btn btn--info" style="font-size: large; margin: 0 auto; text-align: center;">
-      <i class="fab fa-github"></i> GitHub
-    </a>
-    {% endif %}
-
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
@@ -60,6 +52,15 @@
     {% if page.nav %}
       {% include nav_list nav=page.nav %}
     {% endif %}
+    
+    <!-- Github page link -->
+    {% if page.github %}
+    <!-- Also include github icon -->
+    <a href="{{ page.github }}" class="btn btn--info" style="font-size: large; margin: 0 auto; text-align: center;">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+    {% endif %}
+
   {% endif %}
   
   </div>
