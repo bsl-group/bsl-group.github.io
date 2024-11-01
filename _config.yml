@@ -251,7 +251,7 @@ compress_html:
     envs: development
 
 collections:
-  _earth-models:
+  earth-models:
     output: true
     permalink: /earth-models/:path/
 
@@ -275,10 +275,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _earth-models
+  # earth-models
   - scope:
       path: ""
-      type: _earth-models
+      type: earth-models
     values:
       layout: single
       author_profile: false
