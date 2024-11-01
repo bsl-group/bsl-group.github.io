@@ -275,3 +275,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _earth-models
+  - scope:
+      path: ""
+      type: _earth-models
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
