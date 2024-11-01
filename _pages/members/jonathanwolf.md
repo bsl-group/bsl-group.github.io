@@ -3,12 +3,24 @@ permalink: "/members/jonathanwolf/"
 classes:
   - wide
 github: "https://github.com/wolfjonathan"
+author: Jonathan Wolf
 sidebar:
   nav: "jonathan_publications"
-author: Jonathan Wolf
 ---
 
-<strong> Earthquake Wave Enthusiast </strong>
+<strong> Opportunities </strong>
+
+Jonathan will be starting as an Assistant Professor at UC Santa Cruz in July and is actively seeking enthusiastic PhD students and a postdoc.
+
+For PhD Applicants:
+Are you pursuing a bachelor’s or master’s degree? Are you passionate about deep Earth research? Do you have a solid foundation in geophysics, physics, applied math, computer science, or a related field? Reach out to Jonathan to learn more about PhD opportunities!
+
+For Postdoctoral Candidates:
+If you have a PhD in Earth Sciences and a strong background in deep Earth seismology or geodynamics, contact Jonathan to discuss potential postdoc positions!
+
+
+<strong> Research interests </strong>
+
 
 Jonathan is generally interested in the structures and processes of the deep Earth. He believes that much scientific progress in our understanding of Earth's deep interior can be made by using large publicly available datasets. He has the privilege to work with colleagues on [a massive data collection effort](http://adept.sese.asu.edu/). This dataset includes 17 million three-component seismograms and is constantly growing. Currently, he puts much of his scientific effort into implementing automated methods to analyze this massive dataset.
 
