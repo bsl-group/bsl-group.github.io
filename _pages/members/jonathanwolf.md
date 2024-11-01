@@ -8,17 +8,6 @@ sidebar:
   nav: "jonathan_publications"
 ---
 
-<strong> Opportunities </strong>
-
-Jonathan will be starting as an Assistant Professor at UC Santa Cruz in July 2026 and is actively seeking enthusiastic PhD students and a postdoc.
-
-For PhD Applicants:
-Are you pursuing a bachelor’s or master’s degree? Are you passionate about deep Earth research? Do you have a solid foundation in geophysics, physics, applied math, computer science, or a related field? Reach out to Jonathan to learn more about PhD opportunities!
-
-For Postdoctoral Candidates:
-If you have a PhD in Earth Sciences and a strong background in deep Earth seismology or geodynamics, contact Jonathan to discuss potential postdoc positions!
-
-
 <strong> Research interests </strong>
 
 
@@ -38,3 +27,15 @@ Jonathan's research often involves comparisons between real and computer-generat
 If you are interested in collaborations, please do not hesitate to reach out via email: jonathan.wolf(at)berkeley.edu.
 
 For a most recent list of publications check [Jonathan's Google Scholar Page](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
+
+
+<strong> Opportunities </strong>
+
+Jonathan will be starting as an Assistant Professor at UC Santa Cruz in July 2026 and is actively seeking enthusiastic PhD students and a postdoc.
+
+For PhD Applicants:
+Are you pursuing a bachelor’s or master’s degree? Are you passionate about deep Earth research? Do you have a solid foundation in geophysics, physics, applied math, computer science, or a related field? Reach out to Jonathan to learn more about PhD opportunities!
+
+For Postdoctoral Candidates:
+If you have a PhD in Earth Sciences and a strong background in deep Earth seismology or geodynamics, contact Jonathan to discuss potential postdoc positions!
+
