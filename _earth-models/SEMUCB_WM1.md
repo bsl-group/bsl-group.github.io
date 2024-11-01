@@ -9,7 +9,12 @@ sidebar:
 excerpt: " SEMUCB-WM1 is a global radially anisotropic shear velocity model derived from fully numerical SEM-based forward modelling. It is parametrized in terms of isotropic S velocity (Voigt average) and the anisotropic parameter, xi "
 header:
   teaser: "/images/semucb_wm1.png"
+author: Barbara Romanowicz
 ---
+
+<figure style="width: 640px; margin: 0 auto; text-align: left;">
+<img style="width: 100%" src="/images/semucb_wm1.png">
+</figure>
 
 ## Broad plumes rooted at the base of the mantle beneath major hotspots
 - Download SEMUCB_WM1 model and codes to read it and plot it
