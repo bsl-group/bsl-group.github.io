@@ -4,7 +4,7 @@ main:
     url: /highlights/
   - title: "Members"
     url: /members/
-  - title: "Publications"
+  - title: "Recent Publications"
     url: /recent-publications/
 
 all_posts_list:
