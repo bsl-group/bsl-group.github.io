@@ -21,13 +21,18 @@ layout: default
     {% if page.title %}
     <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{%
     endif %}
+    
     {% if page.excerpt %}
     <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
     {% endif %}
+    
     {% if page.date %}
-    <meta itemprop="datePublished" content="{{ page.date | date: " %B %d, %Y" }}">{% endif %}
+      <meta itemprop="datePublished" content="{{ page.date | date: " %B %d, %Y" }}">
+    {% endif %}
+    
     {% if page.last_modified_at %}
-    <meta itemprop="dateModified" content="{{ page.last_modified_at | date: " %B %d, %Y" }}">{% endif %}
+      <meta itemprop="dateModified" content="{{ page.last_modified_at | date: " %B %d, %Y" }}">
+    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -44,23 +49,22 @@ layout: default
           {% if page.author == 'noauthor' %}
           <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
           {% elsif page.author %}
-          <p class="page__meta"><i class="far fa-user" aria-hidden="true"></i>
+            <p class="page__meta"><i class="far fa-user" aria-hidden="true"></i>
             {{ page.author }}&nbsp;&nbsp;&nbsp;&nbsp;
             <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
-            {% else %}
+          {% else %}
             <p class="page__meta"><i class="far fa-user" aria-hidden="true"></i>
             Barbara Romanowicz&nbsp;&nbsp;&nbsp;&nbsp;
             <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
-            {% endif %}
+          {% endif %}
 
-            {% if site.category_archive.type and page.categories[0] %}
+          {% if site.category_archive.type and page.categories[0] %}
             <i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {% include category-top.html %} &nbsp;&nbsp;
-            {% endif %}
-            {% if page.read_time %}
+          {% endif %}
+            
+          {% if page.read_time %}
             {% include post-date.html %} &nbsp;&nbsp;
-            {% endif %}
-
-
+          {% endif %}
           </p>
         </div>
           {% endif %}
