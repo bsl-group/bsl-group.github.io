@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: "/posts/"
+permalink: "/highlights/"
 entries_layout: grid
 classes:
   - wide
