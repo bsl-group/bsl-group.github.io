@@ -24,5 +24,61 @@ all_posts_list:
 jonathan_publications:
   - title: Publications
     children:
+
+      - title: "J Wolf, DA Frost, A Brewster, MD Long, E Garnero, JD West (2024), Widespread D" anisotropy beneath North America and the northeastern Pacific and implications for upper mantle anisotropy measurements, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2024]B029516."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029516
+        
+      - title: "J Wolf, M Li, MD Long (2024), Low-velocity heterogeneities redistributed by subducted material in the deepest mantle beneath North America, Earth and Planetary Science Letters, doi: 10.1016/j.epsl.2024.118867."
+        url: https://www.sciencedirect.com/science/article/pii/S0012821X24003005
+        
+      - title: "J Wolf, MD Long, T Nissen-Meyer, DA Frost (2024), The expression of mantle seismic anisotropy in the global seismic wavefield, Geophysical Journal International, doi: 10.1093/gji/ggae164."
+        url: https://academic.oup.com/gji/article/238/1/346/7667369
+        
       - title: "J Wolf, M Li, MD Long, E Garnero (2024), Advances in mapping lowermost mantle convective flow with seismic anisotropy observations, Reviews of Geophysics, doi: 10.1029/2023RG000833."
         url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000833
+        
+      - title: "J Wolf, MD Long (2024), ScS shear-wave splitting in the lowermost mantle: Practical challenges and new global measurements, Seismica, doi: 10.26443/seismica.v3i1.1128."
+        url: https://seismica.library.mcgill.ca/article/view/1128
+        
+      - title: "DA Frost, E Garnero, N Creasy, J Wolf, E Bozdag, M Long, A Aderoju, Reynaldo Vite (2024), Heterogeneous mantle effects on the behavior of SmKS waves and outermost core imaging, Geophysical Journal International; doi: 10.1093/gji/ggae135."
+        url: https://academic.oup.com/gji/article/237/3/1655/7645101
+        
+      - title: "B Fernando, J Wolf, K Leng, T Nissen-Meyer, W Eaton, M Styczinski, A Walker, TJ Craig, J Muir, C Nunn, MD Long (2024), AxiSEM3D - an introduction to using the code and its applications, EarthArXiv, doi: 10.31223/X5TH7P."
+        url: https://eartharxiv.org/repository/view/6868/
+              
+      - title: "J Wolf, M Li, AA Haws, MD Long (2024), Strong seismic anisotropy due to upwelling flow at the root of the Yellowstone mantle plume, Geology, doi: 10.1130/G51919.1."
+        url: https://pubs.geoscienceworld.org/gsa/geology/article/52/5/379/635783/Strong-seismic-anisotropy-due-to-upwelling-flow-at
+        
+      - title: "J Wolf, MD Long, DA Frost (2024), Ultralow velocity zone and deep mantle flow beneath the Himalayas linked to subducted slab, Nature Geoscience, doi: 10.1038/s41561-024-01386-5."
+        url: https://www.nature.com/articles/s41561-024-01386-5
+        
+      - title: "J Wolf, MD Long, M Li, E Garnero (2023), Global compilation of deep mantle anisotropy observations and possible correlation with low velocity provinces, Geochemistry, Geophysics, Geosystems, doi: 10.1029/2023GC011070."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GC011070
+        
+      - title: "J Wolf, MD Long (2023), Upper mantle anisotropy and flow beneath the Pacific Ocean from PS-SKS splitting, Geophysical Research Letters, doi: 10.1029/2023GL104402."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL104402
+        
+      - title: "J Wolf, MD Long (2023), Lowermost mantle structure beneath the central Pacific Ocean: Ultralow velocity zones and seismic anisotropy, Geochemistry, Geophysics, Geosystems, doi: 10.1029/2022GC010853."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GC010853
+        
+      - title: "J Wolf, DA Frost, MD Long, AO Aderoju, N Creasy, E Garnero, E Bozdag (2023), Observations of mantle seismic anisotropy using array techniques: shear-wave splitting of beamformed SmKS phases, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2022JB025556."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025556
+        
+      - title: "J Wolf, MD Long, N Creasy, E Garnero (2023), On the measurement of Sdiff splitting caused by lowermost mantle anisotropy, Geophysical Journal International, doi: 10.1093/gji/ggac490."
+        url: https://academic.oup.com/gji/article/233/2/900/6886542
+        
+      - title: "J Wolf, MD Long (2022), Slab-driven flow at the base of the mantle beneath the northeastern Pacific Ocean, Earth and Planetary Science Letters, doi: 10.1016/j.epsl.2022.117758."
+        url: https://www.sciencedirect.com/science/article/pii/S0012821X22003946
+        
+      - title: "J Wolf, MD Long, K Leng, T Nissen-Meyer (2022), Constraining deep mantle anisotropy with shear wave splitting measurements: Challenges and new measurement strategies, Geophysical Journal International; doi: 10.1093/gji/ggac055."
+        url: https://academic.oup.com/gji/article/230/1/507/6524845
+        
+      - title: "J Wolf, DAD Evans (2022), Reconciling supercontinent cycle models with ancient subduction zones, Earth and Planetary Science Letters; doi: 10.1016/j.epsl.2021.117293."
+        url: https://www.sciencedirect.com/science/article/pii/S0012821X21005495
+        
+      - title: "J Wolf, MD Long, K Leng, T Nissen-Meyer (2022), Sensitivity of SK(K)S and ScS phases to heterogeneous anisotropy in the lowermost mantle from global wavefield simulations, Geophysical Journal International; doi: 10.1093/gji/ggab347."
+        url: https://academic.oup.com/gji/article/228/1/366/6358526
+        
+      - title: "J Wolf, N Creasy, A Pisconti, MD Long, C Thomas (2019), An investigation of seismic anisotropy in the lowermost mantle beneath Iceland, Geophysical Journal International; doi: 10.1093/gji/ggab347."
+         url: https://academic.oup.com/gji/article/219/Supplement_1/S152/5531314
+               
