@@ -10,7 +10,7 @@ category: research-papers
 excerpt: "Progressive crystallisation of Earth's inner core drives convection in the outer core and magnetic field generation. Determining the rate and pattern of inner core growth is thus crucial to understanding the evolution of the geodynamo."
 header:
   teaser: "/images/dynamic-history-of-inner-core/fig2.png"
-author: "Daniel A. Frost, Marine Lasbleis, Brian Chandler & Barbara Romanowicz"
+author: "Daniel A. Frost, Marine Lasbleis, Brian Chandler, Barbara Romanowicz"
 ---
 
 
