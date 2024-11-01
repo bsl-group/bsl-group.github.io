@@ -4,6 +4,7 @@ classes:
   - wide
 github: "https://github.com/earthinversion"
 author: Utpal Kumar
+author_profile: true
 ---
 
 <strong>Geophysicist | Geodesist | Seismologist | Open-source Developer</strong>
