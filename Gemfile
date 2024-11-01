@@ -15,42 +15,23 @@ source "https://rubygems.org"
 
 
 
-# gem "jekyll", "~> 4.3.3"
-# gem "minimal-mistakes-jekyll"
-# gem "jekyll-seo-tag"
-# gem "jekyll-coffeescript"
-# gem "jekyll-commonmark-ghpages"
-# gem "jekyll-github-metadata"
-# gem "jekyll-relative-links"
-# gem "jekyll-feed"
-# gem "jekyll-paginate"
-# gem "jekyll-sitemap"
-# gem "jekyll-gist"
-# gem "jekyll-include-cache"
-# gem "jekyll-optional-front-matter"
-# gem "jekyll-readme-index"
-# # gem "jekyll-default-layout"
-# gem "jekyll-titles-from-headings"
-# gem "faraday-retry"
-
-# # The following plugins are automatically loaded by the theme-gem:
-# #   gem "jekyll-paginate"
-# #   gem "jekyll-sitemap"
-# #   gem "jekyll-gist"
-# #   gem "jekyll-feed"
-# #   gem "jekyll-include-cache"
-# #
-# # If you have any other plugins, put them here!
-# group :jekyll_plugins do
-# end
-
-# gem 'classifier-reborn'
-# gem 'jekyll-redirect-from'
-# gem "webrick", "~> 1.7"
-
-
-gem "jekyll"
+gem "jekyll", "~> 4.3.3"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-seo-tag"
+gem "jekyll-coffeescript"
+gem "jekyll-commonmark-ghpages"
+gem "jekyll-github-metadata"
+gem "jekyll-relative-links"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-include-cache"
+gem "jekyll-optional-front-matter"
+gem "jekyll-readme-index"
+# gem "jekyll-default-layout"
+gem "jekyll-titles-from-headings"
+gem "faraday-retry"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
