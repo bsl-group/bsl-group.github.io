@@ -5,7 +5,6 @@ classes:
 github: "https://github.com/barbararz"
 author: Barbara Romanowicz
 title: Prof. Barbara Romanowicz
-author_profile: true
 ---
 
 

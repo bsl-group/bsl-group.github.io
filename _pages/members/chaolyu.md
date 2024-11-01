@@ -4,6 +4,5 @@ classes:
   - wide
 github: "https://github.com/lyuchao"
 author: Chao Lyu
-author_profile: true
 ---
 

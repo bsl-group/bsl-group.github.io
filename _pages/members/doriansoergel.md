@@ -4,7 +4,6 @@ classes:
   - wide
 github: "https://github.com/dosoe"
 author: Dorian Soergel
-author_profile: true
 ---
 
 <strong>Seismic Data Enthusiast</strong>

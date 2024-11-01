@@ -4,7 +4,6 @@ classes:
   - wide
 github: "https://github.com/nico-valencia"
 author: Nicolas Valencia
-author_profile: true
 ---
 
 <strong>Undergraduate Researcher</strong>
