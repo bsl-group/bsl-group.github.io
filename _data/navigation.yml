@@ -17,3 +17,9 @@ all_posts_list:
 
       - title: "SEMUCB-WM1"
         url: /earth-models/SEMUCB_WM1/
+
+jonathan_publications:
+  - title: Publications
+    children:
+      - title: "J Wolf, M Li, MD Long, E Garnero (2024), Advances in mapping lowermost mantle convective flow with seismic anisotropy observations, Reviews of Geophysics, doi: 10.1029/2023RG000833."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000833

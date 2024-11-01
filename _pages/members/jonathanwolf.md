@@ -4,6 +4,8 @@ classes:
   - wide
 github: "https://github.com/wolfjonathan"
 author: Jonathan Wolf
+sidebar:
+  nav: "jonathan_publications"
 ---
 
 <strong> Earthquake Wave Enthusiast </strong>
