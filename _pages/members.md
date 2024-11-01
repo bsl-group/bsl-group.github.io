@@ -6,8 +6,7 @@ classes:
 author_profile: false
 sidebar:
   - image: "assets/images/barbara_romanowicz.jpg"
-    text: "Prof. Barbara Romanowicz"
-    subtext: "Professor of the Graduate School, Department of Earth and Planetary Science, UC Berkeley"
+    text: "Prof. Barbara Romanowicz Group"
 github: "https://github.com/bsl-group"
 ---
 
