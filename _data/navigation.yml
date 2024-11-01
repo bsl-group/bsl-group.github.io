@@ -2,10 +2,10 @@
 main:
   - title: "Highlights"
     url: /highlights/
-  - title: "Members"
-    url: /members/
   - title: "Recent Publications"
     url: /recent-publications/
+  - title: "Members"
+    url: /members/
 
 all_posts_list:
   
