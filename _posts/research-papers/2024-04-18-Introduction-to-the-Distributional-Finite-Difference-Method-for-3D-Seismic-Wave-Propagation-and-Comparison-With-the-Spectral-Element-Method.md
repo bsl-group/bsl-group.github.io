@@ -10,6 +10,7 @@ category: research-papers
 excerpt: "We implement the distributional finite difference method for 3D seismic wave propagation, which show promise for improving accuracy, flexibility, and efficiency against the Spectral Element Method"
 header:
   teaser: "/images/introduction-to-the-DFDM/fig.jpg"
+author: Chao Lyu
 ---
 
 
