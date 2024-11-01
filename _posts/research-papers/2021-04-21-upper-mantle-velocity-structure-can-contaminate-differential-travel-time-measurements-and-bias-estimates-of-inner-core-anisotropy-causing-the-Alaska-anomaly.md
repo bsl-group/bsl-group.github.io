@@ -10,6 +10,7 @@ category: research-papers
 excerpt: "Using a regional tomographic model of the Alaskan upper mantle to predict upper mantle effects on PKP travel times, we show that the signature of the Alaska slab is present in trends of observed absolute PKPbc, ab, and df travel times, both as a function of distance and azimuth. Moreover, we demonstrate that the effect of the slab is not fully cancelled by differential measurements. This implies that past models of the inner core are biased towards too strong average anisotropy."
 header:
   teaser: "/images/upper-mantle-velocity-structure-can-contaminate-differential-travel-time-measurements-and-bias-estimates-of-inner-core-anisotropy-causing-the-Alaska-anomaly/slab_illustration.jpg"
+author: "Daniel A. Frost, Barbara Romanowicz"
 ---
 
 
