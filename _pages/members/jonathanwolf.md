@@ -3,9 +3,9 @@ permalink: "/members/jonathanwolf/"
 classes:
   - wide
 github: "https://github.com/wolfjonathan"
-author: Jonathan Wolf
 sidebar:
   nav: "jonathan_publications"
+author: Jonathan Wolf
 ---
 
 <strong> Earthquake Wave Enthusiast </strong>
