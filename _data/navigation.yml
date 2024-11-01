@@ -18,6 +18,9 @@ all_posts_list:
       - title: "SEMUCB-WM1"
         url: /earth-models/SEMUCB_WM1/
 
+      - title: "SEMum_NA14"
+        url: /earth-models/SEMum_NA14/
+
 jonathan_publications:
   - title: Publications
     children:
