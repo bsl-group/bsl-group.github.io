@@ -9,7 +9,7 @@ header:
   teaser: "/images/using-git-for-team-collaboration/wx2l8l-fgea.webp"
 sidebar:
   nav: "all_posts_list"
-category: techniques
+category: tools
 author: Utpal Kumar
 ---
 ## Why do we use Git?
