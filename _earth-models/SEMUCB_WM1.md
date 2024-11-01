@@ -1,8 +1,8 @@
 ---
-title: "SEMUCB-WM1"
+title: "SEMUCB_WM1"
 date: 2013-10-13
 tags:
-  [earth-model]
+  [earth-model, SEMUCB-WM1]
 toc: true
 sidebar:
   nav: "all_posts_list"
