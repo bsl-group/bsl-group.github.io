@@ -10,6 +10,7 @@ category: research-papers
 excerpt: "We document a high signal to noise phase that agrees with theoretical predictions for PKJKP. Envelope modeling of the PKJKP waveform implies a slightly larger shear velocity gradient with depth in the inner core than that in PREM model."
 header:
   teaser: "/images/observation_of_the_elusive_PKJKP/fig1.jpeg"
+author: "Aimin Cao, Barbara Romanowicz, Nozomu Takeuchi"
 ---
 
 ## Abstract

@@ -10,6 +10,7 @@ category: research-papers
 excerpt: "Based on the PKPdf observations and our new tomography model of the upper mantle beneath Alaska, we conclude that at least 2 s of the travel time anomaly often attributed to inner core anisotropy is due to slab effects in the upper mantle beneath Alaska"
 header:
   teaser: "/images/array-measurements-of-inner-core-waves-in-Alaska-show-perturbations-in-direction-and-travel-time-by-the-subducted-Pacific-plate/fig8.jpg"
+author: "Daniel A. Frost, Barbara Romanowicz, Steve Roecker"
 ---
 
 ## Abstract
