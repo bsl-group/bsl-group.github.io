@@ -6,7 +6,7 @@ tags:
 toc: true
 sidebar:
   nav: "all_posts_list"
-excerpt: " Welcome to the online home of the SEMum2 model, a global radially anisotropic shear-velocity model of the earth's upper mantle and transition zone. "
+excerpt: " SEMUCB-WM1 is a global radially anisotropic shear velocity model derived from fully numerical SEM-based forward modelling. It is parametrized in terms of isotropic S velocity (Voigt average) and the anisotropic parameter, xi "
 header:
   teaser: "/images/semucb_wm1.png"
 ---

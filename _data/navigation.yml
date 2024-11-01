@@ -10,4 +10,10 @@ main:
     url: /members/
 
 all_posts_list:
-  
+  - title: Earth Models
+    children:
+      - title: "SEMum2"
+        url: /earth-models/SEMum2/
+
+      - title: "SEMUCB-WM1"
+        url: /earth-models/SEMUCB_WM1/
