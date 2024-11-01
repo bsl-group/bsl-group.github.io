@@ -32,14 +32,14 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
-        <!-- <div>
+        <div>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline"
             style="color: #ca8f10; margin-bottom: 0.2em; margin-top: 0; padding-bottom:0em; line-height: 1em">{{
             page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-        </div> -->
+        </div>
 
+        {% if page.read_time %}
         <div style="font-size: 0.8em; margin-top: 0; margin-bottom: 3em; padding-bottom: 5%;">
-          {% if page.read_time %}
           
           {% if page.author == 'noauthor' %}
           <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}&nbsp;&nbsp;
@@ -62,8 +62,8 @@ layout: default
 
 
           </p>
-          {% endif %}
         </div>
+          {% endif %}
 
         {% if page.read_time %}
         {% include post-excerpt.html %}
