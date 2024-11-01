@@ -12,13 +12,13 @@ main:
 all_posts_list:
   - title: Earth Models
     children:
-      - title: "SEMum2"
+      - title: "SEMum2: High-resolution global shear velocity model of upper mantle"
         url: /earth-models/SEMum2/
 
-      - title: "SEMUCB-WM1"
+      - title: "SEMUCB-WM1: Global whole-mantle tomographic earth model"
         url: /earth-models/SEMUCB_WM1/
 
-      - title: "SEMum_NA14"
+      - title: "SEMum_NA14: North American regional shear velocity model"
         url: /earth-models/SEMum_NA14/
 
 jonathan_publications:
