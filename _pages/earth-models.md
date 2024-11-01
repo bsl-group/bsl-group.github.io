@@ -9,7 +9,7 @@ classes:
 ---
 
 
-{% assign entries1 = site["earth-models"] %}
+{% assign entries1 = site["_earth-models"] %}
 {% if entries1 %}
   {% assign entries1 = entries1 | sort: 'date' | reverse %}
   <section id="earth-models" class="taxonomy__section">
