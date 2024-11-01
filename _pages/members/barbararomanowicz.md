@@ -3,7 +3,6 @@ permalink: "/members/barbarar/"
 classes:
   - wide
 github: "https://github.com/barbararz"
-layout: archive
 author: Barbara Romanowicz
 ---
 
