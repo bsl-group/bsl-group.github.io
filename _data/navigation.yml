@@ -4,6 +4,8 @@ main:
     url: /highlights/
   - title: "Recent Publications"
     url: /recent-publications/
+  - title: "Earth Models"
+    url: /earth-models/
   - title: "Members"
     url: /members/
 
