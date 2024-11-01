@@ -4,9 +4,9 @@ classes:
   - wide
 github: "https://github.com/barbararz"
 author: Barbara Romanowicz
+title: Prof. Barbara Romanowicz
 ---
 
-## Prof. Barbara Romanowicz
 
 ### Research Description
 Barbara Romanowicz received her undergraduate degree from Ecole Normale Supérieure, "Sèvres" in Paris, France in 1974, her Maîtrise de Mathématiques Pures from the Université Paris 6 in 1972, her Agrégation de Mathématiques in Paris, France in 1973, her M.S. in Applied Physics at Harvard University in 1975, her Doctorat de 3e cycle in Astronomy, at the Université Paris 6, also in 1975, and her Doctorat d'Etat, Spécialité Géophysique at the Université Paris 7 in 1979.
