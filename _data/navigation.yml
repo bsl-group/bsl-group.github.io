@@ -25,7 +25,7 @@ jonathan_publications:
   - title: Publications
     children:
 
-      - title: "J Wolf, DA Frost, A Brewster, MD Long, E Garnero, JD West (2024), Widespread D" anisotropy beneath North America and the northeastern Pacific and implications for upper mantle anisotropy measurements, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2024]B029516."
+      - title: "J Wolf, DA Frost, A Brewster, MD Long, E Garnero, JD West (2024), Widespread D'' anisotropy beneath North America and the northeastern Pacific and implications for upper mantle anisotropy measurements, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2024]B029516."
         url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029516
         
       - title: "J Wolf, M Li, MD Long (2024), Low-velocity heterogeneities redistributed by subducted material in the deepest mantle beneath North America, Earth and Planetary Science Letters, doi: 10.1016/j.epsl.2024.118867."
@@ -80,5 +80,5 @@ jonathan_publications:
         url: https://academic.oup.com/gji/article/228/1/366/6358526
         
       - title: "J Wolf, N Creasy, A Pisconti, MD Long, C Thomas (2019), An investigation of seismic anisotropy in the lowermost mantle beneath Iceland, Geophysical Journal International; doi: 10.1093/gji/ggab347."
-         url: https://academic.oup.com/gji/article/219/Supplement_1/S152/5531314
+        url: https://academic.oup.com/gji/article/219/Supplement_1/S152/5531314
                
