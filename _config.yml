@@ -250,6 +250,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  earth-models:
+    output: true
+    permalink: /earth-models/:path/
+
 # Defaults
 defaults:
   # _posts
