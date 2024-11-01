@@ -65,6 +65,14 @@ Dorian Soergel:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:d.soergel@berkeley.edu"
 
+Daniel A. Frost:
+  name: "Daniel A. Frost"
+  bio: "Assistant Professor, School of Earth, Ocean, and Environment, University of South Carolina"
+  avatar: "https://danielafrost.com/wp-content/uploads/2022/11/frost_dan-0168_web.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dfrost at seoe.sc.edu"
 
 ## Used for the members page
 authors:  
