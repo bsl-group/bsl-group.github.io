@@ -4,5 +4,3 @@ classes:
   - wide
 ---
 
-# Recent Publications
-
