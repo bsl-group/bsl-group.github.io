@@ -10,7 +10,7 @@ sidebar:
 
 <strong> Opportunities </strong>
 
-Jonathan will be starting as an Assistant Professor at UC Santa Cruz in July and is actively seeking enthusiastic PhD students and a postdoc.
+Jonathan will be starting as an Assistant Professor at UC Santa Cruz in July 2026 and is actively seeking enthusiastic PhD students and a postdoc.
 
 For PhD Applicants:
 Are you pursuing a bachelor’s or master’s degree? Are you passionate about deep Earth research? Do you have a solid foundation in geophysics, physics, applied math, computer science, or a related field? Reach out to Jonathan to learn more about PhD opportunities!
@@ -37,4 +37,4 @@ Jonathan's research often involves comparisons between real and computer-generat
 
 If you are interested in collaborations, please do not hesitate to reach out via email: jonathan.wolf(at)berkeley.edu.
 
-For and updated list of publications, please visit [Jonathan's Google Scholar Page](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
+For a most recent list of publications check [Jonathan's Google Scholar Page](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
