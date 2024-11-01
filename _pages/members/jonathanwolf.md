@@ -37,19 +37,4 @@ Jonathan's research often involves comparisons between real and computer-generat
 
 If you are interested in collaborations, please do not hesitate to reach out via email: jonathan.wolf(at)berkeley.edu.
 
-#### Selected contributions
-J Wolf, M Li, MD Long, E Garnero (2024), Advances in mapping lowermost mantle convective flow with seismic anisotropy observations, Reviews of Geophysics, doi: 10.1029/2023RG000833.
-
-J Wolf, M Li, AA Haws, MD Long (2024), Strong seismic anisotropy due to upwelling flow at the root of the Yellowstone mantle plume, Geology, doi: 10.1130/G51919.1.
-
-B Fernando, J Wolf, K Leng, T Nissen-Meyer, W Eaton, M Styczinski, A Walker, TJ Craig, J Muir, C Nunn, MD Long (2024), AxiSEM3D - an introduction to using the code and its applications, EarthArXiv, doi: 10.31223/X5TH7P.
-
-J Wolf, MD Long, DA Frost (2024), Ultralow velocity zone and deep mantle flow beneath the Himalayas linked to subducted slab, Nature Geoscience, doi: 10.1038/s41561-024-01386-5.
-
-J Wolf, DA Frost, MD Long, AO Aderoju, N Creasy, E Garnero, E Bozdag (2023), Observations of mantle seismic anisotropy using array techniques: shear-wave splitting of beamformed SmKS phases, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2022JB025556.
-
-J Wolf, MD Long, K Leng, T Nissen-Meyer (2022), Constraining deep mantle anisotropy with shear wave splitting measurements: Challenges and new measurement strategies, Geophysical Journal International; doi: 10.1093/gji/ggac055.
-
-J Wolf, DAD Evans (2022), Reconciling supercontinent cycle models with ancient subduction zones, Earth and Planetary Science Letters; doi: 10.1016/j.epsl.2021.117293.
-
-For a full list of publications, please visit [Jonathan's Google Scholar Page](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
+For and updated list of publications, please visit [Jonathan's Google Scholar Page](https://scholar.google.com/citations?user=m3cfl64AAAAJ&hl=en/).
