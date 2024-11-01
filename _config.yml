@@ -251,7 +251,7 @@ compress_html:
     envs: development
 
 collections:
-  earth-models:
+  _earth-models:
     output: true
     permalink: /earth-models/:path/
 
