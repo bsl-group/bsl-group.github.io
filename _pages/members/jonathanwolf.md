@@ -7,7 +7,6 @@ author: Jonathan Wolf
 sidebar:
   nav: "jonathan_publications"
 ---
-<strong> Earthquake Wave Enthusiast </strong>
 
 Jonathan is currently Miller postdoctoral Fellow at UC Berkeley working with Barbara Romanowicz and Weiqiang Zhu. In July 2026, Jonathan will join the faculty of UC Santa Cruz and build up a deep Earth research group (for opportunities the bottom of the page).
 
