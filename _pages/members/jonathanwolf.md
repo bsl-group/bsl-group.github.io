@@ -8,7 +8,7 @@ sidebar:
   nav: "jonathan_publications"
 ---
 
-Jonathan is currently Miller postdoctoral Fellow at UC Berkeley working with Barbara Romanowicz and Weiqiang Zhu. In July 2026, Jonathan will join the faculty of UC Santa Cruz and build up a deep Earth research group (for opportunities the bottom of the page).
+Jonathan is currently a Miller Postdoctoral Fellow at UC Berkeley, working with Barbara Romanowicz and Weiqiang Zhu. In July 2026, he will join the faculty at UC Santa Cruz, where he plans to build a research group focused on deep Earth studies. See the bottom of the page for opportunities to join the group!
 
 <strong> Research interests </strong>
 
