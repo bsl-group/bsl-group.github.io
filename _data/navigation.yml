@@ -24,7 +24,11 @@ all_posts_list:
 jonathan_publications:
   - title: Publications
     children:
+      - title: "B Fernando, C Charalambous, N Schmerr, TJ Craig, J Wolf, et al. (2024), Array-based seismic measurements of OSIRIS-REx's re-entry, Seismological Research Letters."
 
+      - title: "M Li, J Wolf, E Garnero, MD Long (2024), Flow and deformation in Earth's deepest mantle: Insights from geodynamic modeling and comparisons with seismic observations, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2024JB029058."
+        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JB029058
+        
       - title: "J Wolf, DA Frost, A Brewster, MD Long, E Garnero, JD West (2024), Widespread D'' anisotropy beneath North America and the northeastern Pacific and implications for upper mantle anisotropy measurements, Journal of Geophysical Research: Solid Earth, doi: 10.1029/2024]B029516."
         url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029516
         
