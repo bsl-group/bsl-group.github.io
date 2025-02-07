@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Archive"
-    url: /highlights/
+    url: /archive/
   - title: "Recent Publications"
     url: /recent-publications/
   - title: "Earth Models"
