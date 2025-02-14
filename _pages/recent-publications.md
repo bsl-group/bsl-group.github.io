@@ -12,7 +12,7 @@ Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical
 ----
 Munch, F., B. Romanowicz, S. Mukhopadhyay and M. Rudolph (2024) Deep mantle plumes feeding periodic alignments of asthenospheric fingers beneath the central and southern Atlantic Ocean, PNAS, 121, 46, e2407543121. [https://doi.org/10.1073/pnas.2407543121](https://doi.org/10.1073/pnas.2407543121)
 
-Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763, https://doi.org/10.1016/j.epsl.2024.118763
+Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763, [https://doi.org/10.1016/j.epsl.2024.118763](https://doi.org/10.1016/j.epsl.2024.118763)
 
 
 Masson, Y., C. Lyu, P. Moczo, Y. Capdeville, B. Romanowicz and J. Virieux (2024) 2-D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology, Geophys. J. Int., 237, 339-363, https://doi.org/10.1093/gji/ggae025
