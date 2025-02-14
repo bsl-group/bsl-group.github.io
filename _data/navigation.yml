@@ -8,6 +8,8 @@ main:
     url: /earth-models/
   - title: "Members"
     url: /members/
+  - title: "Publications"
+    url: /all-publications/
 
 all_posts_list:
   - title: Earth Models
