@@ -5,10 +5,12 @@ classes:
 title: "Recent Publications"
 ---
 
-# 2025
+2025
+------
 - Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical modeling of the seismic wavefield in the presence of solid-fluid boundaries, Nat. Comm., in press.
 
-# 2024
+2024
+------
 - Munch, F., B. Romanowicz, S. Mukhopadhyay and M. Rudolph (2024) Deep mantle plumes feeding periodic alignments of asthenospheric fingers beneath the central and southern Atlantic Ocean, PNAS, 121, 46, e2407543121. [https://doi.org/10.1073/pnas.2407543121](https://doi.org/10.1073/pnas.2407543121)
 
 - Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763. [https://doi.org/10.1016/j.epsl.2024.118763](https://doi.org/10.1016/j.epsl.2024.118763)
@@ -23,7 +25,8 @@ title: "Recent Publications"
 
 - Fichtner, A., B. Kennett,V.C. Tsai, C. H. Thurber… B. Romanowicz…et al. (2024) Seismic Tomography 2024, Bull. Seism. Soc. Amer., 114,1185-1213. [https://doi.org/10.1785/0120230229](https://doi.org/10.1785/0120230229)
 
-# 2023
+2023
+------
 - Wamba, M., J.-P. Montagner and B. Romanowicz (2023) Imaging deep-mantle plumbing beneath La Réunion and Comores hot spots: Vertical plume conduits and horizontal ponding zones, Sci. Adv. 9, eade3723. [https://doi.org/10.1126/sciadv.ade3723](https://doi.org/10.1126/sciadv.ade3723)
 
 - Romanowicz, B., R. Allen, K. Brekke, L-W Chen, Y. Gou, I. Henson, J. Marty et al. (2023) SeaFOAM: A Year long DAS Deployment in Monterey Bay, California, Seism. Res. Lett., XX, 1–12. [https://doi.org/10.1785/0220230047](https://doi.org/10.1785/0220230047)
@@ -32,7 +35,8 @@ title: "Recent Publications"
 
 - Cathles, L., W. Fjeldskar, A. Lenardic, B. Romanowicz, J. Seales & M. Richards (2023) Influence of the asthenosphere on earth dynamics and evolution, Sci. Rep., 13:13367. [https://doi.org/10.1038/s41598-023-39973-y](https://doi.org/10.1038/s41598-023-39973-y)
 
-# 2022
+2022
+------
 - Moulik, P., V. Lekic, B. Romanowicz et al. (2022) Global reference seismological data sets: multimode surface wave dispersion, Geophys. J. Int., 228, 1808-1849.
 
 - Bao, X., C. R. Lithgow-Bertelloni, M. G. Jackson and B. Romanowicz (2022) On the relative temperatures of Earth' volcanic hotspots and mid-ocean ridges, Science, 375, 57-61.
@@ -41,7 +45,8 @@ title: "Recent Publications"
 
 - Adourian, S., C. Lyu, Y. Masson, F. Munch and B. Romanowicz (2022) Combining different 3D global and regional seismic wave propagation solvers towards box tomography in the deep Earth, Geophys. J. Int. 232, 1340–1356
 
-# 2021
+2021
+------
 - Frost, D. A. and B. Romanowicz (2021) Effects of upper mantle structure beneath Alaska on core wave absolute and differential measurements: implications for estimates of inner core anisotropy, Phys. Earth Planet. Inter., 314, 106713.
 
 - Frost, D. A., B. Romanowicz, M. Lasbleis and B. Chandler (2021) Dynamic history of the inner core constrained by seismic anisotropy, Nature Geosc. [https://doi.org/10.1038/s41561-021-00761-w](https://doi.org/10.1038/s41561-021-00761-w)
@@ -60,7 +65,8 @@ title: "Recent Publications"
 
 - Koppers, A. P., T. W. Becker, M. G. Jackson, K. Konrad, R. D. Müller, B. Romanowicz, B. Steinberger, J. M. Whittaker (2021) Mantle plumes and their role in Earth processes, Nature Rev., Earth and Environment. [https://doi.org/10.1038/s43017-021-00168-6](https://doi.org/10.1038/s43017-021-00168-6)
 
-# 2020
+2020
+------
 - Romanowicz, B., L-W Chen and S. W. French (2020), Accelerating full waveform inversion via source stacking and cross-correlations, Geophys. J. Int., 220, 308-322. [https://doi.org/10.1093/gji/ggz437](https://doi.org/10.1093/gji/ggz437)
 
 - Frost, D. A., B. Romanowicz and S. Roecker (2020) Upper mantle slab under Alaska: contribution to anomalous core-phase observations on south-Sandwich to Alaska path, Phys. Earth. Planet. Inter., 299, 106427.
@@ -69,7 +75,8 @@ title: "Recent Publications"
 
 - Kohler, M., K. Hafner, J. Park, J. C.E Irving, J. Caplan_Auerbach, J. Collins, J. Berger, A. M. Tréhu, B. Romanowicz and R. L. Woodward (2020) A plan for a Long-Term, Automated, broadband seismic monitoring network on the Global Seafloor, Seism. Res. Lett., 91, 1343-1355. [https://doi.org/10.1785/0220190123](https://doi.org/10.1785/0220190123)
 
-# 2019
+2019
+------
 - Frost, D. A. and B. Romanowicz (2019) On the orientation of the fast and slow directions of anisotropy in the deep inner core, Phys. Earth Planet. Inter., 286, 101-110. [https://doi.org/10.1016/j.pepi.2018.11.006](https://doi.org/10.1016/j.pepi.2018.11.006)
 
 - Maurya, S., T. Taira and B. Romanowicz (2019) Location of seismic "hum" sources following storms in the north Pacific ocean, G-Cubed, 20, 1454-1467. [https://doi.org/10.1029/2018GC008112](https://doi.org/10.1029/2018GC008112)
@@ -78,7 +85,8 @@ title: "Recent Publications"
 
 - Robson, A and B. Romanowicz (2019) New normal mode constraints on bulk inner core velocities and density Research Paper, Phys. Earth Planet. Inter., 295, 106310.
 
-# 2018
+2018
+------
 - Karaoglu, H. and B. Romanowicz (2018) Inferring global Upper-Mantle Shear Attenuation structure by waveform tomography using the Spectral Element Method, Geophys. J. Int., 213, 1536-1558.
 
 - Clouzet, P., Y. Masson and B. Romanowicz (2018) Box tomography: first application to the imaging of upper mantle shear velocity and radial anisotropy structure beneath the north American continent, Geophys. J. Int., 213, 1849-1875. [https://doi.org/10.1093/gji/ggy078](https://doi.org/10.1093/gji/ggy078)
@@ -93,7 +101,8 @@ title: "Recent Publications"
 
 - Chandler, B., K. Yuan, M. Li, S. Cottaar, B. Romanowicz, C. N. Tomé and H. R. Wenk (2018) A refined approach to model anisotropy in the lowermost mantle, IOP Conf. Ser.: Mater. Sci. Eng., 375, 012002, ICOTOM-18. [https://doi.org/10.1088/1757-899X/375/1/012002](https://doi.org/10.1088/1757-899X/375/1/012002)
 
-# 2017
+2017
+------
 - Masson, Y. and B. Romanowicz (2017) Fast computation of synthetic seismograms within a medium containing remote localized perturbations A numerical solution to the scattering problem, Geophys. J. Int., 208(2), 674-692.
 
 - Romanowicz, B. and R. Wenk (2017) Anisotropy in the Deep Earth, Phys. Earth Planet. Inter., 269, 58-90. [https://doi.org/10.1016/j.pepi.2017.05.005](https://doi.org/10.1016/j.pepi.2017.05.005)
@@ -114,7 +123,8 @@ title: "Recent Publications"
 
 - Romanowicz, B. (2017) The buoyancy of Earth's deep mantle, N&V, Nature, 551, 308-309.
 
-# 2016
+2016
+------
 - Romanowicz, B., A. Cao, B. Godwal, R. Wenk, R. Jeanloz and S. Ventosa (2016) Seismic anisotropy in the Earth's innermost inner core: testing structural models against mineral physics predictions Geophys. Res. Lett., 43, 93-100.
 
 - Bodin, T., J. Leiva, B. Romanowicz, V. Maupin, and H. Yuan (2016) Imaging Anisotropic Layering with Bayesian Inversion of Multiple Data Types, Geophys. J. Int., 206, 605-629.
@@ -123,7 +133,8 @@ title: "Recent Publications"
 
 - Caló, M., T. Bodin and B. Romanowicz (2016) Layered structure in the upper mantle across north America from inversion of long and short period seismic data, Earth Planet. Sci. Lett., 449, 164-175. [https://doi.org/10.1016/j.epsl.2016.05.054](https://doi.org/10.1016/j.epsl.2016.05.054)
 
-# 2015
+2015
+------
 - Meschede, M. and B. Romanowicz (2015) Lateral heterogeneity scales in regional and global upper mantle shear velocity models, Geophys. J. Int, 200, 1078-1095.
 
 - Weber, M., C. Wicks, Y. LeStunff, B. Romanowicz and F. Krüger (2015) Seismic evidence for a steeply dipping reflector -stagnant slab in the mantle transition zone, Geophys. J. Int., 200, 1237-1253.
@@ -148,7 +159,8 @@ title: "Recent Publications"
 
 - Meschede, M. and B. Romanowicz (2015) Non-Stationary Spherical Random Media and their Effect on Long Period Mantle Waves, Geophys. J. Int., 203, 1605-1625. [https://doi.org/10.1093/gji/ggv356](https://doi.org/10.1093/gji/ggv356)
 
-# 2014
+2014
+------
 - Masson, Y., P. Cupillard, Y. Capdeville and B. Romanowicz (2014) On the numerical implementation of time reversal mirrors for tomographic imaging, Geophys. J. Int., 196, 1580-1599. [https://doi.org/10.1093/gji/ggt459](https://doi.org/10.1093/gji/ggt459)
 
 - Bodin, T., H. Yuan and B. Romanowicz (2014) Inversion of receiver functions without deconvolution - application to the Indian craton, Geophys. J. Int., 196, 1025-1033.
@@ -159,7 +171,8 @@ title: "Recent Publications"
 
 - French, S. and B. Romanowicz (2014) Whole-mantle radially anisotropic shear-velocity structure from spectral-element waveform tomography, Geophys. J. Int., 199, 1303-1327. [https://doi.org/10.1093/gji/ggu334](https://doi.org/10.1093/gji/ggu334)
 
-# 2013
+2013
+------
 - Cottaar, S. and B. Romanowicz (2013) Observations of changing anisotropy across the southern margin of the African LLSVP, Geophys. J. Int. [https://doi.org/10.1093/gji/ggt285](https://doi.org/10.1093/gji/ggt285)
 
 - Durand, S., J. Matas, S. Ford, Y. Ricard, J.P. Montagner and B. Romanowicz (2013) Insights from ScS-S measurements on deep mantle attenuation, Earth Planet. Sci. Lett., 374, 101-110.
@@ -168,7 +181,8 @@ title: "Recent Publications"
 
 - Taira, T., Z. Zheng and B. Romanowicz (2013) On the systematic long period noise reduction on ocean floor broadband seismic sensors collocated with differential pressure gauges, Bull. Seism. Soc. Am., 104, 247-259. [https://doi.org/10.1785/0120130015](https://doi.org/10.1785/0120130015)
 
-# 2012
+2012
+------
 - Romanowicz, B. and H. Yuan (2012) On the interpretation of SKS splitting measurements in the presence of several layers of anisotropy, Geophys. J. Int., 188, 1129-1140.
 
 - Panning, M., A. Cao, A. Kim and B. Romanowicz (2012) Non-linear 3D Born shear waveform tomography in southeast Asia, Geophys. J. Int., 188, 1129-1140.
@@ -183,7 +197,8 @@ title: "Recent Publications"
 
 - Zhang, R., Q. Wu, Y. Li and B. Romanowicz (2012) Lateral variations in SH velocity structure of the transition zone beneath Korea and adjacent regions, J. Geophys. Res., 117, B09315.
 
-# 2011
+2011
+------
 - Houlié, N. and B. Romanowicz (2011) Asymmetric deformation across the San Francisco Bay Area faults from GPS observations in northern California, Phys. Earth. Planet. Inter., 184, 143-153.
 
 - Lekic, V. and B. Romanowicz (2011) Inferring mantle structure by full waveform tomography using the Spectral Element Method, Geophys. J. Int., 185, 799-831. [https://doi.org/10.1111/j.1365-246X.2011.04969.x](https://doi.org/10.1111/j.1365-246X.2011.04969.x)
@@ -200,7 +215,8 @@ title: "Recent Publications"
 
 - Wang,Z., J. Chong, S. Ni and B. Romanowicz (2011) Determination of focal depth by two waveform based methods: a case study for the 2008 Panzhihua earthquake, Earthq. Sci., 24, 321-328.
 
-# 2010
+2010
+------
 - Lekic, V., M. Panning and B. Romanowicz (2010) A simple method for improving crustal corrections in waveform tomography, Geophys. J. Int, 182, 265-278.
 
 - Abt, D., K. M. Fischer, S. W. French, H. A. Ford, H. Yuan and B. Romanowicz (2010), North American Lithospheric Discontinuity Structure Imaged By Ps and Sp Receiver Functions, J. Geophys. Res., 115, B09301. [https://doi.org/10.1029/2009JB006914](https://doi.org/10.1029/2009JB006914)
