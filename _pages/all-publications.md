@@ -50,8 +50,9 @@ Adourian, S.*, C. Lyu*, Y. Masson, F. Munch and B. Romanowicz (2022) Combining d
 
 Frost, D. A. and B. Romanowicz (2021) Effects of upper mantle structure beneath Alaska on core wave absolute and differential measurements: implications for estimates of inner core anisotropy, Phys. Earth Planet. Inter., 314, 106713.
 
-Frost, D. A., B. Romanowicz, M. Lasbleis and B. Chandler (2021) Dynamic history of the inner core constrained by seismic anisotropy, Nature Geosc. ,doi.org/10.1038/s41561-021-00761-w
-259.	Romanowicz, B. (2021) Surface waves, Encyclopedia of Solid Earth, Springer Intern. Pubsl.,, pp 1738-1750.
+Frost, D. A., B. Romanowicz, M. Lasbleis and B. Chandler (2021) Dynamic history of the inner core constrained by seismic anisotropy, Nature Geosc. ,doi.org/10.1038/s41561-021-00761-w259.	
+
+Romanowicz, B. (2021) Surface waves, Encyclopedia of Solid Earth, Springer Intern. Pubsl.,, pp 1738-1750.
 
 Lau, H.C.P. and B. Romanowicz (2021) Constraining Jumps in Density and Elastic Properties at the 660 km discontinuity Using Normal Mode Data via the Backus-Gilbert Method, Geophys. Res. Lett., 48, e2020GL092217. https://doi.org/10.1029/2020GL092217.
 
@@ -214,8 +215,8 @@ Adam, J., A. Ibourichène, and B. Romanowicz (2017) Observation of core sensitiv
 Roy, C. and B. Romanowicz (2017) On the implications of a-priori constraints in transdimensional Bayesian inversion for continental lithospheric layering, J. Geophys. Res., 122, DOI: 10.1002/2017JB014968.
 
 Frost, D. A. and B. Romanowicz (2017) Constraints on inner core anisotropy from observations of P'P', Geophys. Res. Lett., 44, https://doi.org/10.1002/2017GL075049.
-241.
-242.	Romanowicz, B. (2017) The buoyancy of Earth's deep mantle, N&V, Nature, 551, 308-309.
+
+Romanowicz, B. (2017) The buoyancy of Earth's deep mantle, N&V, Nature, 551, 308-309.
 
 
 
