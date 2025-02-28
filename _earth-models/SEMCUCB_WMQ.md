@@ -14,3 +14,6 @@ author: Barbara Romanowicz
 
 
 - Download [SEMUCB_WMQ model and codes] to read it and plot it
+
+## Related paper
+Karaoglu H. and B. Romanowicz (2018) Inferring global upper-mantle shear attenuation structure by waveform tomography using the spectral element method, Geophys. J. Int., https://doi.org/10.1093/gji/ggy030
