@@ -8,7 +8,7 @@ title: "Publications"
 
 ### 2025
 Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical modeling of the seismic wavefield in the presence of solid-fluid boundaries, Nat. Comm., in press.
----
+
 
 ### 2024
 
