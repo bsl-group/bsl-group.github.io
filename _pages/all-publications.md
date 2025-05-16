@@ -1,15 +1,17 @@
 ---
 permalink: "/all-publications/"
+toc: true
 classes:
   - wide
 title: "Publications"
 ---
-2025
-----
-Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical modeling of the seismic wavefield in the presence of solid-fluid boundaries, Nat. Comm., in press.
 
-2024
-----
+### 2025
+Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical modeling of the seismic wavefield in the presence of solid-fluid boundaries, Nat. Comm., in press.
+---
+
+### 2024
+
 Munch, F., B. Romanowicz, S. Mukhopadhyay and M. Rudolph (2024) Deep mantle plumes feeding periodic alignments of asthenospheric fingers beneath the central and southern Atlantic Ocean, PNAS, 121, 46, e2407543121. [https://doi.org/10.1073/pnas.2407543121](https://doi.org/10.1073/pnas.2407543121)
 
 Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763, [https://doi.org/10.1016/j.epsl.2024.118763](https://doi.org/10.1016/j.epsl.2024.118763)
@@ -25,8 +27,8 @@ Chen, L.-W. and B. Romanowicz (2024) Accelerating full-waveform inversion using 
 
 Fichtner, A., B. Kennett,V.C. Tsai, C. H. Thurber… B. Romanowicz…et al. (2024) Seismic Tomography 2024, Bull. Seism. Soc. Amer., 114,1185-1213, https://doi.org/10.1785/0120230229.
 
-2023
----
+### 2023
+
 Wamba, M., J.-P. Montagner and B. Romanowicz (2023) Imaging deep-mantle plumbing beneath La Réunion and Comores hot spots: Vertical plume conduits and horizontal ponding zones, Sci. Adv. 9, eade3723,https://doi.org/)10.1126/sciadv.ade3723
 
 Romanowicz, B., R. Allen, K. Brekke, L-W Chen, Y. Gou, I. Henson, J. Marty et al. (2023) SeaFOAM: A Year long DAS Deployment in Monterey Bay, California, Seism. Res. Lett., XX, 1–12, https://doi.org/10.1785/0220230047
@@ -35,8 +37,8 @@ Romanowicz, B. (2023) Global Seismic Tomography Using Time Domain Waveform Inver
 
 Cathles, L., W. Fjeldskar, A. Lenardic, B. Romanowicz, J. Seales & M. Richards (2023) Influence of the asthenosphere on earth dynamics and evolution, Sci. Rep., 13:13367, https://doi.org/10.1038/s41598-023-39973-y
 
-2022
----
+### 2022
+
 Moulik, P., V. Lekic, B. Romanowicz et al. (2022) Global reference seismological data sets: multimode surface wave dispersion, Geophys. J. Int., 228, 1808-1849.
 
 Bao, X., C. R. Lithgow-Bertelloni, M. G. Jackson and B. Romanowicz (2022) On the relative temperatures of Earth' volcanic hotspots and mid-ocean ridges, Science, 375, 57-61.
@@ -45,8 +47,7 @@ Panet, I., M. Greff-Lefftz and B. Romanowicz (2022) Dense mantle flows periodica
 
 Adourian, S.*, C. Lyu*, Y. Masson, F. Munch and B. Romanowicz (2022) Combining different 3D global and regional seismic wave propagation solvers towards box tomography in the deep Earth,  Geophys. J. Int.  232, 1340–1356
 
-2021
-----
+### 2021
 
 Frost, D. A. and B. Romanowicz (2021) Effects of upper mantle structure beneath Alaska on core wave absolute and differential measurements: implications for estimates of inner core anisotropy, Phys. Earth Planet. Inter., 314, 106713.
 
@@ -66,8 +67,8 @@ Romanowicz, B. A. (2021) Seismic Tomography of the Earth's mantle, in, Encyclope
 
 Koppers, A. P., T. W. Becker, M. G. Jackson, K. Konrad, R. D. Müller, B. Romanowicz, B. Steinberger, J. M. Whittaker (2021) Mantle plumes and their role in Earth processes, Naturte Rev., Earth and Environment, https://doi.org/10.1038/s43017-021-00168-6
 
-2018-2020
-----
+### 2018-2020
+
 Karaoglu, H. and B. Romanowicz (2018) Inferring global Upper-Mantle Shear Attenuation structure by waveform tomography using the Spectral Element Method, Geophys. J. Int., 213, 1536-1558.
 
 Clouzet, P., Y. Masson and B. Romanowicz (2018) Box tomography: first application to the imaging of upper mantle shear velocity and radial anisotropy structure beneath the north American continent, Geophys. J. Int., 213, 1849-1875. doi: 10.1093/gji/ggy078
@@ -98,8 +99,8 @@ Davaille, A., and B. Romanowicz (2020) Deflating the LLSVPs: bundles of mantle t
 
 Kohler, M., K. Hafner, J. Park, J. C.E Irving, J. Caplan_Auerbach, J. Collins, J. Berger, A. M. Tréhu, B. Romanowicz and R. L. Woodward (2020) A plan for a Long-Term, Automated, broadband seismic monitoring network on the Global Seafloor, Seism. Res. Lett., 91, 1343-1355, https://doi.org/10.1785/0220190123.
 
-2010-2017
-------
+### 2010-2017
+
 Lekic, V., M. Panning and B. Romanowicz (2010) A simple method for improving crustal corrections in waveform tomography, Geophys. J. Int,  182, 265-278.
 
 Abt, D., K. M. Fischer, S. W. French, H. A. Ford, H. Yuan and B. Romanowicz (2010), North American Lithospheric Discontinuity Structure Imaged By Ps and Sp Receiver Functions, J. Geophys. Res., 115, B09301, doi:10.1029/2009JB006914. 
@@ -218,8 +219,7 @@ Frost, D. A. and B. Romanowicz (2017) Constraints on inner core anisotropy from 
 
 Romanowicz, B. (2017) The buoyancy of Earth's deep mantle, N&V, Nature, 551, 308-309.
 
-2000-2009
-------
+### 2000-2009
 
 Cao, A. and B. Romanowicz (2009) Constraints on shear wave attenuation in the Earth's inner core from an observation of PKJKP, Geophys. Res. Lett, 36, L09301, doi:10.1029/2009GL038342.
 

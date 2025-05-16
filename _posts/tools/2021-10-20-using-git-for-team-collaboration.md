@@ -1,6 +1,6 @@
 ---
 title: "Using Git for Team Collaboration"
-date: 2024-10-20
+date: 2021-10-20
 tags: [git, github, clone, merge, branch, github desktop, tutorial]
 excerpt: "Tutorial on how to use Git and GitHub for team collaboration on a project. Content includes installing, setting up, creating a repository, making commits, undoing stuffs, creating branches, merging branches etc."
 mathjax: "true"
