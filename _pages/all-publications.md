@@ -1,8 +1,6 @@
 ---
 permalink: "/all-publications/"
 toc: true
-classes:
-  - wide
 title: "Publications"
 ---
 
