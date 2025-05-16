@@ -8,7 +8,7 @@ sidebar:
   nav: "all_posts_list"
 excerpt: " SEMUCB-WM1 is a global radially anisotropic shear velocity model derived from fully numerical SEM-based forward modelling. It is parametrized in terms of isotropic S velocity (Voigt average) and the anisotropic parameter, xi "
 header:
-  teaser: "/images/semucb_wm1.png"
+  teaser: "/images/semucb_wm1/semucb_wm1_interactive.png"
 author: Utpal Kumar
 ---
 
