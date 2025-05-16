@@ -15,25 +15,25 @@ Munch, F., B. Romanowicz, S. Mukhopadhyay and M. Rudolph (2024) Deep mantle plum
 Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763, [https://doi.org/10.1016/j.epsl.2024.118763](https://doi.org/10.1016/j.epsl.2024.118763)
 
 
-Masson, Y., C. Lyu, P. Moczo, Y. Capdeville, B. Romanowicz and J. Virieux (2024) 2-D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology, Geophys. J. Int., 237, 339-363, https://doi.org/10.1093/gji/ggae025
+Masson, Y., C. Lyu, P. Moczo, Y. Capdeville, B. Romanowicz and J. Virieux (2024) 2-D seismic wave propagation using the distributional finite-difference method: further developments and potential for global seismology, Geophys. J. Int., 237, 339-363, [https://doi.org/10.1093/gji/ggae025](https://doi.org/10.1093/gji/ggae025)
 
-Lyu, C., Y. Masson, L. Zhao and B. Romanowicz (2024) Introduction to the Distributional Finite Difference Method for 3D Seismic Wave Propagation and Comparison With the Spectral Element Method, J. Geophys. Res., Solid Earth, 129, e2023JB027576. https://doi.org/10.1029/2023JB027576
+Lyu, C., Y. Masson, L. Zhao and B. Romanowicz (2024) Introduction to the Distributional Finite Difference Method for 3D Seismic Wave Propagation and Comparison With the Spectral Element Method, J. Geophys. Res., Solid Earth, 129, e2023JB027576. [https://doi.org/10.1029/2023JB027576](https://doi.org/10.1029/2023JB027576)
 
-Chen, L-W. and B. Romanowicz (2024) On accounting for the effects of crust and uppermost mantle structure in global scale full-waveform inversion (2024), Geophys. J. Int., 239, 662–674.https://doi.org/10.1093/gji/ggae282
+Chen, L-W. and B. Romanowicz (2024) On accounting for the effects of crust and uppermost mantle structure in global scale full-waveform inversion (2024), Geophys. J. Int., 239, 662–674.[https://doi.org/10.1093/gji/ggae282](https://doi.org/10.1093/gji/ggae282)
 
-Chen, L.-W. and B. Romanowicz (2024) Accelerating full-waveform inversion using source stacking followed by cross-correlation: synthetic experiments at the global scale in a realistic earth model, Geophys. J. Int., 236, 644-658, https://doi.org/10.1093/gji/ggad438
+Chen, L.-W. and B. Romanowicz (2024) Accelerating full-waveform inversion using source stacking followed by cross-correlation: synthetic experiments at the global scale in a realistic earth model, Geophys. J. Int., 236, 644-658, [https://doi.org/10.1093/gji/ggad438](https://doi.org/10.1093/gji/ggad438)
 
-Fichtner, A., B. Kennett,V.C. Tsai, C. H. Thurber… B. Romanowicz…et al. (2024) Seismic Tomography 2024, Bull. Seism. Soc. Amer., 114,1185-1213, https://doi.org/10.1785/0120230229.
+Fichtner, A., B. Kennett,V.C. Tsai, C. H. Thurber… B. Romanowicz…et al. (2024) Seismic Tomography 2024, Bull. Seism. Soc. Amer., 114,1185-1213, [https://doi.org/10.1785/0120230229](https://doi.org/10.1785/0120230229).
 
 ### 2023
 
-Wamba, M., J.-P. Montagner and B. Romanowicz (2023) Imaging deep-mantle plumbing beneath La Réunion and Comores hot spots: Vertical plume conduits and horizontal ponding zones, Sci. Adv. 9, eade3723,https://doi.org/)10.1126/sciadv.ade3723
+Wamba, M., J.-P. Montagner and B. Romanowicz (2023) Imaging deep-mantle plumbing beneath La Réunion and Comores hot spots: Vertical plume conduits and horizontal ponding zones, Sci. Adv. 9, eade3723, [https://doi.org/10.1126/sciadv.ade3723](https://doi.org/10.1126/sciadv.ade3723)
 
-Romanowicz, B., R. Allen, K. Brekke, L-W Chen, Y. Gou, I. Henson, J. Marty et al. (2023) SeaFOAM: A Year long DAS Deployment in Monterey Bay, California, Seism. Res. Lett., XX, 1–12, https://doi.org/10.1785/0220230047
+Romanowicz, B., R. Allen, K. Brekke, L-W Chen, Y. Gou, I. Henson, J. Marty et al. (2023) SeaFOAM: A Year long DAS Deployment in Monterey Bay, California, Seism. Res. Lett., XX, 1–12, [https://doi.org/10.1785/0220230047](https://doi.org/10.1785/0220230047)
 
 Romanowicz, B. (2023) Global Seismic Tomography Using Time Domain Waveform Inversion, in “Applications of Data Assimilation and Inverse Problems in the Earth Sciences”, Ed. A. Ismail-Zadeh,  Cambridge U. Press, chapter 14, p 220-234.
 
-Cathles, L., W. Fjeldskar, A. Lenardic, B. Romanowicz, J. Seales & M. Richards (2023) Influence of the asthenosphere on earth dynamics and evolution, Sci. Rep., 13:13367, https://doi.org/10.1038/s41598-023-39973-y
+Cathles, L., W. Fjeldskar, A. Lenardic, B. Romanowicz, J. Seales & M. Richards (2023) Influence of the asthenosphere on earth dynamics and evolution, Sci. Rep., 13:13367, [https://doi.org/10.1038/s41598-023-39973-y](https://doi.org/10.1038/s41598-023-39973-y)
 
 ### 2022
 

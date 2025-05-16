@@ -2,8 +2,8 @@
 main:
   - title: "Archive"
     url: /archive/
-  - title: "Recent Publications"
-    url: /recent-publications/
+  # - title: "Recent Publications"
+  #   url: /recent-publications/
   - title: "Earth Models"
     url: /earth-models/
   - title: "Members"
