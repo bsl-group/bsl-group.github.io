@@ -3,13 +3,13 @@ permalink: "/members/yuanconggou/"
 classes:
   - wide
 author: Yuancong Gou
-author_profile: true
 ---
 
-<strong>Seismologist</strong>
+<strong>Earthling</strong>
 
-I am currently a PhD student at Berkeley Seismology Lab (BSL) of UC Berkeley.
+I am currently a PhD student at Berkeley Seismology Lab (BSL) of UC Berkeley. I work with Prof. Richard Allen on incorporating DAS (Distributed Acoustic Sensing) sensors into the existing earthquake early warning system in California. From the proof-of-concept algorithm design to real-time implementation and optimaztion, I work with many researchers at BSL to enhance the monitoring ability of our seismic network. 
 
+I am also interested in the fluid–solid earth interaction. For example, utlizing energy from ocean microseisms to image shallow offshore fault structures; Observing and modeling the atmosphere-solid earth coupled system in terms of normal modes of the Earth.
 
 #### Leveraging Submarine DAS Arrays for Offshore Earthquake Early Warning: A Case Study in Monterey Bay, California (Gou et al, 2025, BSSA)
 
