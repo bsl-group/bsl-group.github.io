@@ -74,6 +74,16 @@ Daniel A. Frost:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dfrost at seoe.sc.edu"
 
+Yuancong Gou:
+  name: "Yuancong Gou"
+  bio: "PhD student at UC Berkeley"
+  avatar: "/assets/images/Gou.jpg"
+  uri: "https://bsl-group.github.io/members/yuanconggou/"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "yuancong_gou@berkeley.edu"
+
 ## Used for the members page
 authors:  
   - name: "Prof. Barbara Romanowicz"
