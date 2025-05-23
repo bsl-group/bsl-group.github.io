@@ -4,11 +4,15 @@ toc: true
 title: "Publications"
 ---
 
+
 ### 2025
+
 Chao, L., B. Romanowicz, L. Zhao and Y. Masson (2025) Efficient hybrid numerical modeling of the seismic wavefield in the presence of solid-fluid boundaries, Nature Comm., 16, 1722, [https://doi.org/10.1038/s41467-025-56530-5)
 
 
+
 ### 2024
+
 
 Munch, F., B. Romanowicz, S. Mukhopadhyay and M. Rudolph (2024) Deep mantle plumes feeding periodic alignments of asthenospheric fingers beneath the central and southern Atlantic Ocean, PNAS, 121, 46, e2407543121. [https://doi.org/10.1073/pnas.2407543121](https://doi.org/10.1073/pnas.2407543121).
 <br/>Panet, I., M. Greff-Lefftz and B. Romanowicz (2024) Partial Melt in Mesoscale Upper Mantle Upwellings beneath Ocean Basins, EPSL, 639, 118763, [https://doi.org/10.1016/j.epsl.2024.118763](https://doi.org/10.1016/j.epsl.2024.118763)
@@ -25,16 +29,21 @@ Wamba, M., J.-P. Montagner and B. Romanowicz (2023) Imaging deep-mantle plumbing
 <br/>Romanowicz, B. (2023) Global Seismic Tomography Using Time Domain Waveform Inversion, in “Applications of Data Assimilation and Inverse Problems in the Earth Sciences”, Ed. A. Ismail-Zadeh,  Cambridge U. Press, chapter 14, p 220-234.
 <br/>Cathles, L., W. Fjeldskar, A. Lenardic, B. Romanowicz, J. Seales & M. Richards (2023) Influence of the asthenosphere on earth dynamics and evolution, Sci. Rep., 13:13367, [https://doi.org/10.1038/s41598-023-39973-y](https://doi.org/10.1038/s41598-023-39973-y)
 
+
 ### 2022
 
 Moulik, P., V. Lekic, B. Romanowicz et al. (2022) Global reference seismological data sets: multimode surface wave dispersion, Geophys. J. Int., 228, 1808-1849.
+
 <br/>Bao, X., C. R. Lithgow-Bertelloni, M. G. Jackson and B. Romanowicz (2022) On the relative temperatures of Earth' volcanic hotspots and mid-ocean ridges, Science, 375, 57-61.
 <br/>Panet, I., M. Greff-Lefftz and B. Romanowicz (2022) Dense mantle flows periodically spaced below ocean basins, Earth and Planet. Res. Lett., 594 (2022) 117745 
 <br/>Adourian, S.*, C. Lyu*, Y. Masson, F. Munch and B. Romanowicz (2022) Combining different 3D global and regional seismic wave propagation solvers towards box tomography in the deep Earth,  Geophys. J. Int.  232, 1340–1356
 
+
+
 ### 2021
 
 Frost, D. A. and B. Romanowicz (2021) Effects of upper mantle structure beneath Alaska on core wave absolute and differential measurements: implications for estimates of inner core anisotropy, Phys. Earth Planet. Inter., 314, 106713.
+
 <br/>Frost, D. A., B. Romanowicz, M. Lasbleis and B. Chandler (2021) Dynamic history of the inner core constrained by seismic anisotropy, Nature Geosc. ,doi.org/10.1038/s41561-021-00761-w259.	
 <br/>Romanowicz, B. (2021) Surface waves, Encyclopedia of Solid Earth, Springer Intern. Pubsl.,, pp 1738-1750.
 <br/>Lau, H.C.P. and B. Romanowicz (2021) Constraining Jumps in Density and Elastic Properties at the 660 km discontinuity Using Normal Mode Data via the Backus-Gilbert Method, Geophys. Res. Lett., 48, e2020GL092217. https://doi.org/10.1029/2020GL092217.
@@ -44,9 +53,11 @@ Frost, D. A. and B. Romanowicz (2021) Effects of upper mantle structure beneath 
 <br/>Romanowicz, B. A. (2021) Seismic Tomography of the Earth's mantle, in, Encyclopedia of Geology, Elsevier Pub., pp 597-608.
 <br/>Koppers, A. P., T. W. Becker, M. G. Jackson, K. Konrad, R. D. Müller, B. Romanowicz, B. Steinberger, J. M. Whittaker (2021) Mantle plumes and their role in Earth processes, Naturte Rev., Earth and Environment, https://doi.org/10.1038/s43017-021-00168-6
 
+
 ### 2018-2020
 
 Karaoglu, H. and B. Romanowicz (2018) Inferring global Upper-Mantle Shear Attenuation structure by waveform tomography using the Spectral Element Method, Geophys. J. Int., 213, 1536-1558.
+
 <br/>Clouzet, P., Y. Masson and B. Romanowicz (2018) Box tomography: first application to the imaging of upper mantle shear velocity and radial anisotropy structure beneath the north American continent, Geophys. J. Int., 213, 1849-1875. doi: 10.1093/gji/ggy078
 <br/>Ibourichène, A. and B. Romanowicz (2018) Detection of small schale heterogeneities at the Inner Core Boundary, Phys. Earth Planet. Inter., 281, 55-67.
 <br/>Smit, P. B., T. T. Janssen, T.H.C. Herbers, T. Taira and B. A. Romanowicz (2018) Infragravity wave radiation across the shelf break, J. Geophys. Res. (Oceans), 123, doi: 10.1029/2018JC013986
@@ -62,9 +73,11 @@ Karaoglu, H. and B. Romanowicz (2018) Inferring global Upper-Mantle Shear Attenu
 <br/>Davaille, A., and B. Romanowicz (2020) Deflating the LLSVPs: bundles of mantle thermochemical plumes, rather than thick "stagnant" piles, Tectonics, 39, e2020TC006265. doi.org/10.1029/2020TC006265.
 <br/>Kohler, M., K. Hafner, J. Park, J. C.E Irving, J. Caplan_Auerbach, J. Collins, J. Berger, A. M. Tréhu, B. Romanowicz and R. L. Woodward (2020) A plan for a Long-Term, Automated, broadband seismic monitoring network on the Global Seafloor, Seism. Res. Lett., 91, 1343-1355, https://doi.org/10.1785/0220190123.
 
+
 ### 2010-2017
 
 Lekic, V., M. Panning and B. Romanowicz (2010) A simple method for improving crustal corrections in waveform tomography, Geophys. J. Int,  182, 265-278.
+
 <br/>Abt, D., K. M. Fischer, S. W. French, H. A. Ford, H. Yuan and B. Romanowicz (2010), North American Lithospheric Discontinuity Structure Imaged By Ps and Sp Receiver Functions, J. Geophys. Res., 115, B09301, doi:10.1029/2009JB006914. 
 <br/>Roult, G., J. P. Montagner, B. Romanowicz et al. (2010) GEOSCOPE: Program progress and challenges in the last 30 years, Seismolog. Res. Lett. 81, 427-452.
 <br/>Yuan, H. and B. Romanowicz (2010) Lithospheric Layering in the North American Continent, Nature. 466, 1063-1069.
@@ -122,11 +135,14 @@ Lekic, V., M. Panning and B. Romanowicz (2010) A simple method for improving cru
 <br/>Adam, J., A. Ibourichène, and B. Romanowicz (2017) Observation of core sensitive phases: constraints on the velocity and attenuation profile in the vicinity of the inner-core boundary, Phys. Earth Planet. Inter., 275, 19-31.
 <br/>Roy, C. and B. Romanowicz (2017) On the implications of a-priori constraints in transdimensional Bayesian inversion for continental lithospheric layering, J. Geophys. Res., 122, DOI: 10.1002/2017JB014968.
 <br/>Frost, D. A. and B. Romanowicz (2017) Constraints on inner core anisotropy from observations of P'P', Geophys. Res. Lett., 44, https://doi.org/10.1002/2017GL075049.
+
 Romanowicz, B. (2017) The buoyancy of Earth's deep mantle, N&V, Nature, 551, 308-309.
+
 
 ### 2000-2009
 
 Cao, A. and B. Romanowicz (2009) Constraints on shear wave attenuation in the Earth's inner core from an observation of PKJKP, Geophys. Res. Lett, 36, L09301, doi:10.1029/2009GL038342.
+
 <br/>Cammarano, F., B. Romanowicz, L. Stixrude, C. Lithgow-Bertelloni and W. Xu (2009) Inferring the thermo-chemical structure of the upper mantle from seismic data, Geophys. J. Int., 179, 1169-1185.
 <br/>Forsyth, D., T. Lay, R. Aster, B. Romanowicz et al. (2009) Grand Challenges for Seismology, EOS Trans AGU, 90, 361-362
 <br/>To, A. and B. Romanowicz (2009) Finite frequency effects on global S diffracted travel times, Geophys. J. Int., 179, 1645-1657, doi:10.1111/j.1365-246X.2009.04359.x.
@@ -203,77 +219,128 @@ Cao, A. and B. Romanowicz (2009) Constraints on shear wave attenuation in the Ea
 <br/>Bréger, L., F. Tajima, D. Dreger, and B. Romanowicz (2000) Source rupture of the 17 August Izmit/Turkey earthquake, in The 1999 Izmit and Duzce Earthquakes: Preliminary Results, edited by A. Barka, O. Kozaci, S. Akyuz, and E. Altunel, pp. 123-130, ITU publication, ISBN 975-561-182-7, Istanbul, Turkey.
 <br/>Bréger, L., H. Tkalcic, and B. Romanowicz (2000) The effect of D" on PKP(AB-DF) travel time residuals and possible implications for inner core structure, Earth Planet. Sci. Lett., 175(1-2), 133-143.
 
+
+
 ### 1990-1999
 
 Ekström, G., and B. Romanowicz (1990) The 23 May 1989 Macquarie ridge earthquake: a very broad band analysis, Geophys. Res. Lett., 17(7), 993-996.
+
 Lognonné, P., and B. Romanowicz (1990a) Modelling of coupled normal modes of the Earth: the spectral method, Geophys. J. Int., 102(2), 365-395.
+
 Lognonné, P., and B. Romanowicz (1990b) Effect of a global plume distribution on Earth normal models, Geophys. Res. Lett., 17(10), 1493-1496.
+
 Mocquet, A., and B. Romanowicz (1990) Three-dimensional structure of the upper mantle beneath the Atlantic Ocean inferred from long-period Rayleigh waves: 2. Inversion, J. Geophys. Res., 95(B5), 6787-6798.
+
 Monfret, T., A. Deschamps, and B. Romanowicz (1990) The Romanian earthquake of August 30, 1986: a study based on GEOSCOPE very long-period and broadband data, Pure Appl. Geophys., 133(2), 367-379.
+
 Romanowicz, B. (1990) Asymptotic Theory of Normal Modes and Surface Waves, in Oceanographic and Geophysical Tomography, pp. 134-158, Y. Desaubies, A. Tarantola, eds., Elsevier.
+
 Romanowicz, B. (1990) The upper mantle degree two: constraints and inferences from global mantle wave attenuation measurements, J. Geophys. Res., 95(B7), 11,051-11,071.
+
 Romanowicz, B., and H. Lyon-Caen (1990) The Loma Prieta earthquake of October 18, 1989: results of teleseismic mantle and body wave inversion, Geophys. Res. Lett., 17(8), 1191-1194.
+
 Roult, G., B. Romanowicz, and J. P. Montagner (1990) 3-D upper mantle shear velocity and attenuation from fundamental mode free oscillation data, Geophys. J. Int., 101(1), 61-80.
+
 Bernard, P., J. F. Karczewski, M. Morand, B. Dole, and B. Romanowicz (1991) The G-Calibration: a new method for an absolute in situ calibration of long-period accelerometers, tested on the Streckeisen instruments of the GEOSCOPE network, Bull. Seism. Soc. Am., 81(4), 1360-1372.
+
 Farra, V., L. P. Vinnik, B. Romanowicz, G. L. Kosarev, and R. Kind (1991) Inversion of teleseismic S particle motion for azimuthal anisotropy in the upper mantle: a feasibility study, Geophys. J. Int., 106(2), 421-431.
+
 Gaulon, R., J. Chorowicz, B. Romanowicz et al. (1991) The south Sudan earthquakes of May-July 1990: evidence of an active intracontinental transform zone, C.R.Acad. Sci., Serie II, 312, 377-384.
+
 Romanowicz, B. (1991) Seismic tomography of the Earth’s mantle, Ann. Rev. Earth Planet. Sci., 19, 77-99.
+
 Romanowicz, B., L. Gee, and R. Uhrhammer (1991) Berkeley Digital Seismic Network: a broadband network for northern and central California, IRIS Newsletter, XI(1), 1-5.
+
 Romanowicz, B., J. F. Karczewski, M. Cara, P. Bernard, J. Borsenberger, J.-M. Cantin, B. Dole, D. Fouassier, J.-C. Koenig, M. Morand, R. Pillet, A. Pyrolley, and D. Rouland (1991) The Geoscope program: present status and perspectives, Bull. Seism. Soc. Am., 81(1), 243-264.
+
 Vinnik, L. P., and B. Romanowicz (1991) Origin of precursors to teleseismic S waves, Bull. Seism. Soc. Am., 81(4), 1216-1230.
+
 Bourjot, L., and B. Romanowicz (1992) Crust and upper mantle tomography in Tibet using surface waves, Geophys. Res. Lett., 19(9), 881-884.
+
 Gaulon, R., J. Chorowicz, G. Vidal, B. Romanowicz, and G. Roult (1992) Regional geodynamic implications of the May-July 1990 earthquake sequence in southern Sudan, Tectonophysics, 209(1-4), 87-103.
+
 Romanowicz, B. (1992) Strike-slip earthquakes on Quasi-Vertical transcurrent faults: inferences for general scaling relations, Geophys. Res. Lett., 19(5), 481-484.
+
 Bussy, M., J.-P. Montagner, and B. Romanowicz (1993) Tomographic study of upper mantle attenuation in the Pacific Ocean, Geophys. Res. Lett., 20(8), 663-666.
+
 Montagner, J.-P., and B. Romanowicz (1993) Degrees 2-4-6 inferred from seismic tomography, Geophys. Res. Lett., 20(7), 631-634.
+
 Oppenheimer, D., G. Beroza, G. Carver, L. Dengler, L. Gee, B. Romanowicz, et al. (1993) The Cape Mendocino, California, earthquakes of April 1992: Subduction at the triple junction, Science, 261(5120), 433-438.
+
 Romanowicz, B. (1993) Spatiotemporal patterns in the energy release of great earthquakes, Science, 260(5116), 1923-1926.
+
 Romanowicz, B., D. Dreger, M. Pasyanos, and R. Uhrhammer (1993) Monitoring of strain release in central and northern California using broadband data, Geophys. Res. Lett., 20(15), 1643-1646.
+
 Romanowicz, B., and J. Rundle (1993) On scaling relations for large earthquakes, Bull. Seism. Soc. Am., 83(4), 1294-1297.
+
 Dreger, D., and B. Romanowicz (1994) Source characteristics of events in the San Francisco Bay region, in USGS Open-file report no. 94-176, 301-309.
+
 Montagner, J. P., J. F. Karczewski, B. Romanowicz, et al. (1994) The French pilot experiment OFM-SISMOBS: first scientific results on noise level and event detection, Phys. Earth Planet. Inter., 84(1-4), 321-336.
+
 Montagner, J. P., B. Romanowicz, and J. F. Karczewski (1994) A first step toward an Oceanic Geophysical Observatory, Eos Trans. AGU, 75(13), 150-151, 154.
+
 Okal, E. A., and B. A. Romanowicz (1994) On the variation of b-values with earthquake size, Phys. Earth Planet. Inter., 87(1-2), 55-76.
+
 Romanowicz B. (1994) Anelastic tomography: a new perspective on upper mantle thermal structure, Earth Planet. Sci. Lett., 128, 113-121.
+
 Romanowicz, B. (1994) On the measurement of anelastic attenuation using amplitudes of low-frequency surface waves, Phys. Earth Planet. Inter., 84(1-4), 179-191.
+
 Romanowicz, B. (1994) Comments on: “A reappraisal of large earthquake scaling” by C. Scholz, Bull. Seism. Soc. Am., 84(5), 1675-1676.
+
 Romanowicz, B., D. Neuhauser, B. Bogaert, and D. Oppenheimer (1994) Accessing Northern California Earthquake Data Via Internet, Eos Trans. AGU, 75(23), 257, 259-260.
+
 Romanowicz B., and J. Rundle (1994) Reply to comments on “On scaling relations for large earthquakes” by Sornette and Sornette, Bull. Seism. Soc. Am., 84(5), 1684.
+
 Vinnik, L., B. Romanowicz, and L. Breger (1994) Anisotropy in the center of the inner core, Geophys. Res. Lett., 21(16), 1671-1674.
+
 Kuo, C., H. J. Crawford, R. Jeanloz, B. Romanowicz, G. Shapiro, and M. L. Stevenson (1995) Extraterrestrial neutrinos and Earth structure, Earth Planet. Sci. Lett., 133(1-2), 95-103.
+
 Le Stunff, Y., C. W. Wicks, and B. Romanowicz (1995) P'P' precursors under Africa: evidence for mid-mantle reflectors, Science, 270(5233), 74-77.
+
 Li, X.-D., and B. Romanowicz (1995) Comparison of global waveform inversions with and without considering cross-branch modal coupling, Geophys. J. Int., 121(3), 695-709.
+
 Romanowicz, B. (1995) A global tomographic model of shear attenuation in the upper mantle, J. Geophys. Res., 100(B7), 12,375-12,394.
+
 Vinnik, L., B. Romanowicz, Y. Le Stunff, and L. Makeyeva (1995) Seismic anisotropy in the D" layer, Geophys. Res. Lett., 22(13), 1657-1660.
+
 Antolik, M., D. Dreger, and B. Romanowicz (1996) Finite fault source study of the great 1994 deep Bolivia earthquake, Geophys. Res. Lett., 23(13), 1589-1592.
+
 Gee, L. S., D. S. Neuhauser, D. S. Dreger, M. E. Pasyanos, R. A. Uhrhammer, and B. Romanowicz (1996) Real-time seismology at UC Berkeley: The Rapid Earthquake Data Integration Project, Bull. Seism. Soc. Am., 86(4), 936-945.
+
 Li, X.-D., and B. Romanowicz (1996) Global mantle shear velocity model developed using nonlinear asymptotic coupling theory, J. Geophys. Res., 101(B10), 22,245-22,272.
+
 Pasyanos, M. E., D. S. Dreger, and B. Romanowicz (1996) Towards real-time estimation of regional moment tensors, Bull. Seism. Soc. Am., 86(5), 1255-1269.
+
 Romanowicz, B., X.-D. Li, and J. Durek (1996) Anisotropy in the inner core: could it be due to low-order convection?, Science, 274(5289), 963-966.
+
 Souriau, A., and B. Romanowicz (1996) Anisotropy in inner core attenuation: a new type of data to constrain the nature of the solid core, Geophys. Res. Lett., 23(1), 1-4.
+
 Uhrhammer, R. A., S. J. Loper, and B. Romanowicz (1996) Determination of local magnitude using BDSN broadband records, Bull. Seism. Soc. Am., 86(5), 1314-1330.
+
 Jeanloz R., and B. Romanowicz (1997) Geophysical dynamics at the center of the Earth, Physics Today, 50(8), 22-27.
+
 Mégnin, C., H. P. Bunge, B. Romanowicz, and M. A. Richards (1997) Imaging 3-D spherical convection models: what can seismic tomography tell us about mantle dynamics?, Geophys. Res. Lett., 24(11), 1299-1302.
+
 Romanowicz, B., L. Gee, M. Murray, D. Neuhauser, and R. Uhrhammer (1997) Real time access to multiparameter geophysical observatories in northern California, IRIS Newsletter, XVI(1), 6-8.
+
 Souriau, A., and B. Romanowicz (1997) Anisotropy in the inner core: relation between P-velocity and attenuation, Phys. Earth Planet. Inter., 101(1-2), 33-47.
+
 Bréger, L., and B. Romanowicz (1998) Three-dimensional structure at the base of the mantle beneath the central Pacific, Science, 282(5389), 718-720.
+
 Bréger, L., B. Romanowicz, and L. Vinnik (1998) Tests of tomographic models in D" using differential travel time data, Geophys. Res. Lett., 25(1), 5-8.
+
 Bunge, H.-P., M. A. Richards, C. Lithgow-Bertelloni, J. R. Baumgardner, S. P. Grand, and B. Romanowicz (1998), Time scales and heterogeneous structure in geodynamic Earth models, Science, 280(5360), 91-95.
+
 Dreger, D., R. Uhrhammer, M. Pasyanos, J. Franck, and B. Romanowicz (1998) Regional and far-regional earthquake locations and source parameters using sparse broadband networks: a test on the Ridgecrest sequence, Bull. Seism. Soc. Am., 88(6), 1353-1362.
+
 Lognonné, P., V. N. Zharkov, J. F. Karczewski, B. Romanowicz, M. Menvielle, G. Poupinet, B. Brient, C. Cavoit, A. Desautez, B. Dole, D. Franqueville, J. Gagnepain-Beyneix, H. Richard, P. Schibler, and N. Striebig (1998) The seismic OPTIMISM experiment, Planet. Space Sci., 46(6/7), 739-747.
+
 Pollitz, F. F., R. Bürgmann, and B. Romanowicz (1998) Viscosity of oceanic asthenosphere inferred from remote triggering of earthquakes, Science, 280(5367), 1245-1249.
+
 Romanowicz, B. (1998) Attenuation tomography of the Earth’s mantle: a review of current status, Pure Appl. Geophys., 153(2-4), 257-272.
+
 Romanowicz, B., D. Stakes, J. P. Montagner, P. Tarits, R. Uhrhammer, M. Begnaud, E. Stutzmann, M. Pasyanos, J.-F. Karczewski, S. Etchemendy, and D. Neuhauser (1998) MOISE: A pilot experiment towards long term sea-floor geophysical observatories, Earth Planets Space, 50(11-12), 927-937.
-Stakes, D. S., B. Romanowicz, J.-P. Montagner, P. Tarits, J.-F. Karczewski, S. Etchemendy, C. Dawe, D. Neuhauser, P. McGill, J. C. Koenig, J. Savary, M. Begnaud, and M. Pasyanos (1998) Seismic experiment paves way for long-term seafloor observatories, Eos Trans. AGU, 79(26), 301-309.
-Uhrhammer, R. A., W. Karavas, and B. Romanowicz (1998) Broadband seismic station installation guidelines, Seism. Res. Lett., 69(1), 15-26.
-Vinnik, L., L. Bréger, and B. Romanowicz (1998) On the inversion of Sd particle motion for seismic anisotropy in D", Geophys. Res. Lett., 25(5), 679-682.
-Vinnik, L., L. Bréger, and B. Romanowicz (1998) Anisotropic structures at the base of the Earth’s mantle, Nature, 393(6685), 564-567.
-Antolik, M., D. Dreger, and B. Romanowicz (1999) Rupture process of large deep-focus earthquakes from inversion of moment rate functions, J. Geophys. Res., 104(B1), 863-894.
-Bréger, L., B. Romanowicz, and H. Tkalcic (1999) PKP(BC-DF) travel time residuals and short scale heterogeneity in the deep earth, Geophys. Res. Lett., 26(20), 3169-3172.
-Durek, J., and B. Romanowicz (1999) Inner core anisotropy inferred by direct inversion of normal mode spectra, Geophys. J. Int., 139(3), 599-622.
-Mégnin, C., and B. Romanowicz (1999) The effects of the theoretical formalism and data selection on mantle models derived from waveform tomography, Geophys. J. Int., 138(2), 366-380.
-Stidham, C., M. Antolik, D. Dreger, S. Larsen, and B. Romanowicz (1999) Three-dimensional structure influences on the strong-motion wavefield of the 1989 Loma Prieta earthquake, Bull. Seism. Soc. Am., 89(5), 1184-1202.
-Uhrhammer, R., L. S. Gee, M. Murray, D. Dreger, and B. Romanowicz (1999) The Mw 5.1 San Juan Bautista, California, earthquake of 12 August 1998, Seism. Res. Lett., 70(1), 10-18.
+
 
 ### Before 1990
 
@@ -315,10 +382,20 @@ Vinnik, L. P., V. Farra, and B. Romanowicz (1989) Azimuthal anisotropy in the ea
 Vinnik, L. P., V. Farra, and B. Romanowicz (1989) Observational evidence for diffracted SV in the shadow of the Earth’s core, Geophys. Res. Lett., 16(6), 519-522.
 
 
+Uhrhammer, R. A., W. Karavas, and B. Romanowicz (1998) Broadband seismic station installation guidelines, Seism. Res. Lett., 69(1), 15-26.
 
+Vinnik, L., L. Bréger, and B. Romanowicz (1998) On the inversion of Sd particle motion for seismic anisotropy in D", Geophys. Res. Lett., 25(5), 679-682.
 
+Vinnik, L., L. Bréger, and B. Romanowicz (1998) Anisotropic structures at the base of the Earth’s mantle, Nature, 393(6685), 564-567.
 
+Antolik, M., D. Dreger, and B. Romanowicz (1999) Rupture process of large deep-focus earthquakes from inversion of moment rate functions, J. Geophys. Res., 104(B1), 863-894.
 
+Bréger, L., B. Romanowicz, and H. Tkalcic (1999) PKP(BC-DF) travel time residuals and short scale heterogeneity in the deep earth, Geophys. Res. Lett., 26(20), 3169-3172.
 
+Durek, J., and B. Romanowicz (1999) Inner core anisotropy inferred by direct inversion of normal mode spectra, Geophys. J. Int., 139(3), 599-622.
 
+Mégnin, C., and B. Romanowicz (1999) The effects of the theoretical formalism and data selection on mantle models derived from waveform tomography, Geophys. J. Int., 138(2), 366-380.
 
+Stidham, C., M. Antolik, D. Dreger, S. Larsen, and B. Romanowicz (1999) Three-dimensional structure influences on the strong-motion wavefield of the 1989 Loma Prieta earthquake, Bull. Seism. Soc. Am., 89(5), 1184-1202.
+
+Uhrhammer, R., L. S. Gee, M. Murray, D. Dreger, and B. Romanowicz (1999) The Mw 5.1 San Juan Bautista, California, earthquake of 12 August 1998, Seism. Res. Lett., 70(1), 10-18.
