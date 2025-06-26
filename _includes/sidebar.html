@@ -8,20 +8,24 @@
     {% for s in page.sidebar %}
       {% if s.image %}
         <div class="sidebar-image">
-          <a href="{% if s.image contains '://' %}
-            {{ s.image }}
-          {% else %}
-            {{ s.image | relative_url }}
-          {% endif %}" target="_blank">
-            <img width="30%" src="
-            {% if s.image contains '://' %}
+          <a href="
+            {% if s.pdf %}
+              {{ s.pdf | relative_url }}
+            {% elsif s.image contains '://' %}
               {{ s.image }}
             {% else %}
               {{ s.image | relative_url }}
-            {% endif %}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+            {% endif %}" target="_blank">
+            <img width="30%" src="
+              {% if s.image contains '://' %}
+                {{ s.image }}
+              {% else %}
+                {{ s.image | relative_url }}
+              {% endif %}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
           </a>
         </div>
       {% endif %}
+
       {% if s.title %}
       <h2 align="center">{{ s.title }}</h2>
       {% endif %}
