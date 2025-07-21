@@ -39,6 +39,18 @@
         </blockquote>
       {% endif %}
 
+      {% if s.pdf %}
+        <p>
+          <a href="{{ s.pdf | relative_url }}" class="btn btn--info" target="_blank">
+            <i class="fas fa-id-card"></i> CV
+          </a>
+        </p>
+      {% endif %}
+
+      {% if s.nav %}
+        <h3>Navigation</h3>
+      {% endif %}
+
       {% if s.smalltext %}
         <p style="font-size: small;">{{ s.smalltext }}</p>
       {% endif %}
